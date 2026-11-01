@@ -1,0 +1,38 @@
+nonmatching func_8020A208
+
+dlabel func_8020A208
+    /* 20AE08 8020A208 E8420413 */ .word 0xE8420413
+    /* 20AE0C 8020A20C 0000EC3C */ .word 0x0000EC3C
+    /* 20AE10 8020A210 0CC700DB */ .word 0x0CC700DB
+    /* 20AE14 8020A214 0B7AFDD8 */ .word 0x0B7AFDD8
+    /* 20AE18 8020A218 00D5FDDA */ .word 0x00D5FDDA /* invalid instruction */
+    /* 20AE1C 8020A21C 10ADFDD7 */ .word 0x10ADFDD7
+    /* 20AE20 8020A220 10B5FBFE */ .word 0x10B5FBFE
+    /* 20AE24 8020A224 0B85FBFF */ .word 0x0B85FBFF
+    /* 20AE28 8020A228 127803B1 */ .word 0x127803B1
+    /* 20AE2C 8020A22C 1B53FDD5 */ .word 0x1B53FDD5 /* invalid instruction */
+    /* 20AE30 8020A230 22BC03AE */ .word 0x22BC03AE
+    /* 20AE34 8020A234 308AFDD1 */ .word 0x308AFDD1
+    /* 20AE38 8020A238 308AFBFA */ .word 0x308AFBFA
+    /* 20AE3C 8020A23C 1B5CFBF6 */ .word 0x1B5CFBF6 /* invalid instruction */
+    /* 20AE40 8020A240 28CD03AD */ .word 0x28CD03AD
+    /* 20AE44 8020A244 396E03AA */ .word 0x396E03AA
+    /* 20AE48 8020A248 3B30FDCF */ .word 0x3B30FDCF
+    /* 20AE4C 8020A24C 4063FDCE */ .word 0x4063FDCE /* invalid instruction */
+    /* 20AE50 8020A250 4062FBFB */ .word 0x4062FBFB /* invalid instruction */
+    /* 20AE54 8020A254 3B2EFBFC */ .word 0x3B2EFBFC
+    /* 20AE58 8020A258 00000AFA */ .word 0x00000AFA
+    /* 20AE5C 8020A25C 10180001 */ .word 0x10180001
+    /* 20AE60 8020A260 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 20AE64 8020A264 01030401 */ .word 0x01030401 /* invalid instruction */
+    /* 20AE68 8020A268 03040405 */ .word 0x03040405 /* invalid instruction */
+    /* 20AE6C 8020A26C 01040501 */ .word 0x01040501 /* invalid instruction */
+    /* 20AE70 8020A270 00030100 */ .word 0x00030100
+    /* 20AE74 8020A274 03010006 */ .word 0x03010006
+    /* 20AE78 8020A278 03000603 */ .word 0x03000603 /* invalid instruction */
+    /* 20AE7C 8020A27C 06070306 */ .word 0x06070306 /* invalid instruction */
+    /* 20AE80 8020A280 07030608 */ .word 0x07030608
+    /* 20AE84 8020A284 07060807 */ .word 0x07060807 /* invalid instruction */
+    /* 20AE88 8020A288 07090A07 */ .word 0x07090A07
+    /* 20AE8C 8020A28C 090A0A0B */ .word 0x090A0A0B
+enddlabel func_8020A208

@@ -1,0 +1,15 @@
+nonmatching func_8064D3B0
+
+dlabel func_8064D3B0
+    /* 64DFB0 8064D3B0 1EB1A3E1 */ .word 0x1EB1A3E1 /* invalid instruction */
+    /* 64DFB4 8064D3B4 1F7DBC24 */ .word 0x1F7DBC24 /* invalid instruction */
+    /* 64DFB8 8064D3B8 AD12C2B7 */ .word 0xAD12C2B7
+    /* 64DFBC 8064D3BC F4E11122 */ .word 0xF4E11122
+    /* 64DFC0 8064D3C0 F2F11FFD */ .word 0xF2F11FFD
+    /* 64DFC4 8064D3C4 A71EFBC0 */ .word 0xA71EFBC0
+    /* 64DFC8 8064D3C8 23E312A0 */ .word 0x23E312A0
+    /* 64DFCC 8064D3CC 12A7BED4 */ .word 0x12A7BED4
+    /* 64DFD0 8064D3D0 68043713 */ .word 0x68043713
+    /* 64DFD4 8064D3D4 4D4BB702 */ .word 0x4D4BB702 /* invalid instruction */
+    /* 64DFD8 8064D3D8 D1FFCE30 */ .word 0xD1FFCE30
+enddlabel func_8064D3B0

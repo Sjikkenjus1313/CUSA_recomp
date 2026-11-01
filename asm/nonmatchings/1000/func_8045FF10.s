@@ -1,0 +1,10 @@
+nonmatching func_8045FF10
+
+dlabel func_8045FF10
+    /* 460B10 8045FF10 310E5741 */ .word 0x310E5741
+    /* 460B14 8045FF14 47468024 */ .word 0x47468024 /* invalid instruction */
+    /* 460B18 8045FF18 080A140E */ .word 0x080A140E
+    /* 460B1C 8045FF1C 392C2B6E */ .word 0x392C2B6E
+    /* 460B20 8045FF20 A585E4C1 */ .word 0xA585E4C1
+    /* 460B24 8045FF24 8B878BEA */ .word 0x8B878BEA
+enddlabel func_8045FF10

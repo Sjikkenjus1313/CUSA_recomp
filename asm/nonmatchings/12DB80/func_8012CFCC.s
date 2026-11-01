@@ -1,0 +1,15 @@
+nonmatching func_8012CFCC, 0x4
+
+glabel func_8012CFCC
+    /* 12DBCC 8012CFCC 00000000 */  nop
+endlabel func_8012CFCC
+    /* 12DBD0 8012CFD0 00000000 */  nop
+    /* 12DBD4 8012CFD4 00000000 */  nop
+    /* 12DBD8 8012CFD8 00000000 */  nop
+    /* 12DBDC 8012CFDC 00000000 */  nop
+    /* 12DBE0 8012CFE0 00000000 */  nop
+    /* 12DBE4 8012CFE4 00000000 */  nop
+    /* 12DBE8 8012CFE8 00000000 */  nop
+    /* 12DBEC 8012CFEC 00000000 */  nop
+    /* 12DBF0 8012CFF0 00000000 */  nop
+    /* 12DBF4 8012CFF4 00000000 */  nop

@@ -1,0 +1,39 @@
+nonmatching func_8032EF54
+
+dlabel func_8032EF54
+    /* 32FB54 8032EF54 058A0000 */ .word 0x058A0000
+    /* 32FB58 8032EF58 FEED088B */ .word 0xFEED088B
+    /* 32FB5C 8032EF5C 0000FB93 */ .word 0x0000FB93 /* invalid instruction */
+    /* 32FB60 8032EF60 05CD000B */ .word 0x05CD000B /* invalid instruction */
+    /* 32FB64 8032EF64 F92002E6 */ .word 0xF92002E6
+    /* 32FB68 8032EF68 000BFC91 */ .word 0x000BFC91 /* invalid instruction */
+    /* 32FB6C 8032EF6C 00300016 */ .word 0x00300016
+    /* 32FB70 8032EF70 FA6802FC */ .word 0xFA6802FC
+    /* 32FB74 8032EF74 0016F6E2 */ .word 0x0016F6E2 /* invalid instruction */
+    /* 32FB78 8032EF78 0019001F */ .word 0x0019001F
+    /* 32FB7C 8032EF7C F49AFD69 */ .word 0xF49AFD69
+    /* 32FB80 8032EF80 001FF836 */ .word 0x001FF836
+    /* 32FB84 8032EF84 FD280028 */ .word 0xFD280028
+    /* 32FB88 8032EF88 F289FA93 */ .word 0xF289FA93
+    /* 32FB8C 8032EF8C 0028F639 */ .word 0x0028F639 /* invalid instruction */
+    /* 32FB90 8032EF90 F56A0028 */ .word 0xF56A0028
+    /* 32FB94 8032EF94 FD97F2D7 */ .word 0xFD97F2D7
+    /* 32FB98 8032EF98 00280147 */ .word 0x00280147 /* invalid instruction */
+    /* 32FB9C 8032EF9C 00000800 */ .word 0x00000800
+    /* 32FBA0 8032EFA0 10000800 */ .word 0x10000800
+    /* 32FBA4 8032EFA4 10000000 */ .word 0x10000000
+    /* 32FBA8 8032EFA8 00000000 */ .word 0x00000000
+    /* 32FBAC 8032EFAC 0E000900 */ .word 0x0E000900
+    /* 32FBB0 8032EFB0 00000900 */ .word 0x00000900
+    /* 32FBB4 8032EFB4 0E000000 */ .word 0x0E000000
+    /* 32FBB8 8032EFB8 20000800 */ .word 0x20000800
+    /* 32FBBC 8032EFBC 20000000 */ .word 0x20000000
+    /* 32FBC0 8032EFC0 000019A8 */ .word 0x000019A8 /* invalid instruction */
+    /* 32FBC4 8032EFC4 08000001 */ .word 0x08000001
+    /* 32FBC8 8032EFC8 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 32FBCC 8032EFCC 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 32FBD0 8032EFD0 03000405 */ .word 0x03000405 /* invalid instruction */
+    /* 32FBD4 8032EFD4 06000102 */ .word 0x06000102
+    /* 32FBD8 8032EFD8 06070402 */ .word 0x06070402 /* invalid instruction */
+    /* 32FBDC 8032EFDC 03000809 */ .word 0x03000809
+enddlabel func_8032EF54

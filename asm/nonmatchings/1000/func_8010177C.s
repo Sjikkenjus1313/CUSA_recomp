@@ -1,0 +1,41 @@
+nonmatching func_8010177C
+
+dlabel func_8010177C
+    /* 10237C 8010177C 0017170E */ .word 0x0017170E /* invalid instruction */
+    /* 102380 80101780 0E090486 */ .word 0x0E090486
+    /* 102384 80101784 00001780 */ .word 0x00001780
+    /* 102388 80101788 37032C27 */ .word 0x37032C27
+    /* 10238C 8010178C 19048500 */ .word 0x19048500 /* invalid instruction */
+    /* 102390 80101790 07173727 */ .word 0x07173727 /* invalid instruction */
+    /* 102394 80101794 3727371D */ .word 0x3727371D
+    /* 102398 80101798 09850000 */ .word 0x09850000
+    /* 10239C 8010179C 34823701 */ .word 0x34823701
+    /* 1023A0 801017A0 19048500 */ .word 0x19048500 /* invalid instruction */
+    /* 1023A4 801017A4 0039813E */ .word 0x0039813E /* invalid instruction */
+    /* 1023A8 801017A8 02421D09 */ .word 0x02421D09 /* invalid instruction */
+    /* 1023AC 801017AC 85000134 */ .word 0x85000134
+    /* 1023B0 801017B0 43804202 */ .word 0x43804202 /* invalid instruction */
+    /* 1023B4 801017B4 461D0985 */ .word 0x461D0985 /* invalid instruction */
+    /* 1023B8 801017B8 00073242 */ .word 0x00073242
+    /* 1023BC 801017BC 46464246 */ .word 0x46464246 /* invalid instruction */
+    /* 1023C0 801017C0 23098500 */ .word 0x23098500
+    /* 1023C4 801017C4 00328143 */ .word 0x00328143 /* invalid instruction */
+    /* 1023C8 801017C8 02421D09 */ .word 0x02421D09 /* invalid instruction */
+    /* 1023CC 801017CC 85000032 */ .word 0x85000032
+    /* 1023D0 801017D0 813A023E */ .word 0x813A023E
+    /* 1023D4 801017D4 17098500 */ .word 0x17098500
+    /* 1023D8 801017D8 00328130 */ .word 0x00328130
+    /* 1023DC 801017DC 022C1709 */ .word 0x022C1709 /* invalid instruction */
+    /* 1023E0 801017E0 8500072D */ .word 0x8500072D
+    /* 1023E4 801017E4 3A2C3A2C */ .word 0x3A2C3A2C
+    /* 1023E8 801017E8 3A170985 */ .word 0x3A170985
+    /* 1023EC 801017EC 00002D82 */ .word 0x00002D82
+    /* 1023F0 801017F0 2C011709 */ .word 0x2C011709
+    /* 1023F4 801017F4 85000123 */ .word 0x85000123
+    /* 1023F8 801017F8 20801C02 */ .word 0x20801C02
+    /* 1023FC 801017FC 220E0985 */ .word 0x220E0985
+    /* 102400 80101800 00012D1C */ .word 0x00012D1C /* invalid instruction */
+    /* 102404 80101804 8016021C */ .word 0x8016021C
+    /* 102408 80101808 0E098500 */ .word 0x0E098500
+    /* 10240C 8010180C 092D130D */ .word 0x092D130D
+enddlabel func_8010177C

@@ -1,0 +1,36 @@
+nonmatching func_8073D5C4
+
+dlabel func_8073D5C4
+    /* 73E1C4 8073D5C4 35644512 */ .word 0x35644512
+    /* 73E1C8 8073D5C8 35823B11 */ .word 0x35823B11
+    /* 73E1CC 8073D5CC 35644512 */ .word 0x35644512
+    /* 73E1D0 8073D5D0 357B1135 */ .word 0x357B1135
+    /* 73E1D4 8073D5D4 64431235 */ .word 0x64431235
+    /* 73E1D8 8073D5D8 7D113564 */ .word 0x7D113564 /* invalid instruction */
+    /* 73E1DC 8073D5DC 42123582 */ .word 0x42123582 /* invalid instruction */
+    /* 73E1E0 8073D5E0 3E113564 */ .word 0x3E113564 /* invalid instruction */
+    /* 73E1E4 8073D5E4 4612357A */ .word 0x4612357A /* invalid instruction */
+    /* 73E1E8 8073D5E8 11356445 */ .word 0x11356445
+    /* 73E1EC 8073D5EC 12357B11 */ .word 0x12357B11
+    /* 73E1F0 8073D5F0 35644C12 */ .word 0x35644C12
+    /* 73E1F4 8073D5F4 35823411 */ .word 0x35823411
+    /* 73E1F8 8073D5F8 35644A12 */ .word 0x35644A12
+    /* 73E1FC 8073D5FC 35761135 */ .word 0x35761135
+    /* 73E200 8073D600 64451235 */ .word 0x64451235
+    /* 73E204 8073D604 7B113564 */ .word 0x7B113564 /* invalid instruction */
+    /* 73E208 8073D608 4B123582 */ .word 0x4B123582 /* invalid instruction */
+    /* 73E20C 8073D60C 35113564 */ .word 0x35113564
+    /* 73E210 8073D610 4312357D */ .word 0x4312357D /* invalid instruction */
+    /* 73E214 8073D614 1135644C */ .word 0x1135644C
+    /* 73E218 8073D618 12357411 */ .word 0x12357411
+    /* 73E21C 8073D61C 35644612 */ .word 0x35644612
+    /* 73E220 8073D620 35823A11 */ .word 0x35823A11
+    /* 73E224 8073D624 35644612 */ .word 0x35644612
+    /* 73E228 8073D628 357A1135 */ .word 0x357A1135
+    /* 73E22C 8073D62C 64471235 */ .word 0x64471235
+    /* 73E230 8073D630 79113564 */ .word 0x79113564 /* invalid instruction */
+    /* 73E234 8073D634 40123582 */ .word 0x40123582 /* invalid instruction */
+    /* 73E238 8073D638 40113564 */ .word 0x40113564 /* invalid instruction */
+    /* 73E23C 8073D63C 4312357D */ .word 0x4312357D /* invalid instruction */
+    /* 73E240 8073D640 11356441 */ .word 0x11356441
+enddlabel func_8073D5C4

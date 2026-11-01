@@ -1,0 +1,9 @@
+nonmatching func_80191390
+
+dlabel func_80191390
+    /* 191F90 80191390 001B0310 */ .word 0x001B0310 /* invalid instruction */
+    /* 191F94 80191394 FA063328 */ .word 0xFA063328
+    /* 191F98 80191398 02893334 */ .word 0x02893334
+    /* 191F9C 8019139C 08A66660 */ .word 0x08A66660
+    /* 191FA0 801913A0 00008000 */ .word 0x00008000
+enddlabel func_80191390

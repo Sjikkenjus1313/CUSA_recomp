@@ -1,0 +1,17 @@
+nonmatching func_8040A180
+
+dlabel func_8040A180
+    /* 40AD80 8040A180 FE31F4F2 */ .word 0xFE31F4F2
+    /* 40AD84 8040A184 FFCD0152 */ .word 0xFFCD0152
+    /* 40AD88 8040A188 05A20085 */ .word 0x05A20085
+    /* 40AD8C 8040A18C FFA8090B */ .word 0xFFA8090B
+    /* 40AD90 8040A190 0085FCB8 */ .word 0x0085FCB8 /* invalid instruction */
+    /* 40AD94 8040A194 06BD003E */ .word 0x06BD003E /* invalid instruction */
+    /* 40AD98 8040A198 F9FB035A */ .word 0xF9FB035A
+    /* 40AD9C 8040A19C 003EFD02 */ .word 0x003EFD02 /* invalid instruction */
+    /* 40ADA0 8040A1A0 01070002 */ .word 0x01070002 /* invalid instruction */
+    /* 40ADA4 8040A1A4 FA810452 */ .word 0xFA810452
+    /* 40ADA8 8040A1A8 0002F770 */ .word 0x0002F770
+    /* 40ADAC 8040A1AC 01EAFFCD */ .word 0x01EAFFCD
+    /* 40ADB0 8040A1B0 F4CAFEA6 */ .word 0xF4CAFEA6
+enddlabel func_8040A180

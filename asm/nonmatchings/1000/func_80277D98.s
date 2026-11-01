@@ -1,0 +1,42 @@
+nonmatching func_80277D98
+
+dlabel func_80277D98
+    /* 278998 80277D98 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 27899C 80277D9C 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 2789A0 80277DA0 03000000 */ .word 0x03000000 /* invalid instruction */
+    /* 2789A4 80277DA4 07030005 */ .word 0x07030005
+    /* 2789A8 80277DA8 00000000 */ .word 0x00000000
+    /* 2789AC 80277DAC 093E01E5 */ .word 0x093E01E5
+    /* 2789B0 80277DB0 0000093E */ .word 0x0000093E
+    /* 2789B4 80277DB4 F4D90000 */ .word 0xF4D90000
+    /* 2789B8 80277DB8 F6C2F97A */ .word 0xF6C2F97A
+    /* 2789BC 80277DBC 0000F6C2 */ .word 0x0000F6C2
+    /* 2789C0 80277DC0 06860000 */ .word 0x06860000 /* invalid instruction */
+    /* 2789C4 80277DC4 F6C20000 */ .word 0xF6C20000
+    /* 2789C8 80277DC8 0000093E */ .word 0x0000093E
+    /* 2789CC 80277DCC FBE60000 */ .word 0xFBE60000
+    /* 2789D0 80277DD0 093E08F2 */ .word 0x093E08F2
+    /* 2789D4 80277DD4 0000F6C2 */ .word 0x0000F6C2
+    /* 2789D8 80277DD8 0D0C0000 */ .word 0x0D0C0000
+    /* 2789DC 80277DDC 0DF70008 */ .word 0x0DF70008
+    /* 2789E0 80277DE0 0E0908F8 */ .word 0x0E0908F8
+    /* 2789E4 80277DE4 000908F8 */ .word 0x000908F8
+    /* 2789E8 80277DE8 00090008 */ .word 0x00090008 /* invalid instruction */
+    /* 2789EC 80277DEC 00000EA0 */ .word 0x00000EA0 /* invalid instruction */
+    /* 2789F0 80277DF0 04010001 */ .word 0x04010001
+    /* 2789F4 80277DF4 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 2789F8 80277DF8 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 2789FC 80277DFC 03000405 */ .word 0x03000405 /* invalid instruction */
+    /* 278A00 80277E00 06020100 */ .word 0x06020100
+    /* 278A04 80277E04 06070400 */ .word 0x06070400 /* invalid instruction */
+    /* 278A08 80277E08 03020000 */ .word 0x03020000 /* invalid instruction */
+    /* 278A0C 80277E0C 03030003 */ .word 0x03030003 /* invalid instruction */
+    /* 278A10 80277E10 00000000 */ .word 0x00000000
+    /* 278A14 80277E14 F6C20000 */ .word 0xF6C20000
+    /* 278A18 80277E18 0000093E */ .word 0x0000093E
+    /* 278A1C 80277E1C FBE60000 */ .word 0xFBE60000
+    /* 278A20 80277E20 093E08F2 */ .word 0x093E08F2
+    /* 278A24 80277E24 0000F6C2 */ .word 0x0000F6C2
+    /* 278A28 80277E28 0D0C0000 */ .word 0x0D0C0000
+    /* 278A2C 80277E2C 000908F8 */ .word 0x000908F8
+enddlabel func_80277D98

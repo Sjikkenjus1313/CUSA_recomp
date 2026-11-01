@@ -1,0 +1,17 @@
+nonmatching func_8020EC00
+
+dlabel func_8020EC00
+    /* 20F800 8020EC00 0000F700 */ .word 0x0000F700
+    /* 20F804 8020EC04 00140000 */ .word 0x00140000
+    /* 20F808 8020EC08 F7010000 */ .word 0xF7010000
+    /* 20F80C 8020EC0C FC98FB80 */ .word 0xFC98FB80
+    /* 20F810 8020EC10 0001FCAC */ .word 0x0001FCAC /* invalid instruction */
+    /* 20F814 8020EC14 FB80FFE0 */ .word 0xFB80FFE0
+    /* 20F818 8020EC18 F944F700 */ .word 0xF944F700
+    /* 20F81C 8020EC1C FFE0F944 */ .word 0xFFE0F944
+    /* 20F820 8020EC20 0480001A */ .word 0x0480001A
+    /* 20F824 8020EC24 03680900 */ .word 0x03680900 /* invalid instruction */
+    /* 20F828 8020EC28 001A0368 */ .word 0x001A0368 /* invalid instruction */
+    /* 20F82C 8020EC2C 09000014 */ .word 0x09000014
+    /* 20F830 8020EC30 00000480 */ .word D_480
+enddlabel func_8020EC00

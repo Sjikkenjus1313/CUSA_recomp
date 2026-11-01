@@ -1,0 +1,10 @@
+nonmatching func_80101030
+
+dlabel func_80101030
+    /* 101C30 80101030 3A813013 */ .word 0x3A813013
+    /* 101C34 80101034 17000028 */ .word 0x17000028
+    /* 101C38 80101038 363A3A2C */ .word 0x363A3A2C
+    /* 101C3C 8010103C 3E0E023E */ .word 0x3E0E023E /* invalid instruction */
+    /* 101C40 80101040 2C3A2C3A */ .word 0x2C3A2C3A
+    /* 101C44 80101044 17000028 */ .word 0x17000028
+enddlabel func_80101030

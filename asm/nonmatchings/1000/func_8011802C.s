@@ -1,0 +1,10 @@
+nonmatching func_8011802C
+
+dlabel func_8011802C
+    /* 118C2C 8011802C 00000000 */ .word 0x00000000
+    /* 118C30 80118030 00000000 */ .word 0x00000000
+    /* 118C34 80118034 00000000 */ .word 0x00000000
+    /* 118C38 80118038 00000000 */ .word 0x00000000
+    /* 118C3C 8011803C 0000A9A9 */ .word 0x0000A9A9 /* invalid instruction */
+    /* 118C40 80118040 A9A9A9A9 */ .word 0xA9A9A9A9
+enddlabel func_8011802C

@@ -1,0 +1,13 @@
+nonmatching func_8023D2C8
+
+dlabel func_8023D2C8
+    /* 23DEC8 8023D2C8 C211F187 */ .word 0xC211F187
+    /* 23DECC 8023D2CC 6B5D9B07 */ .word 0x6B5D9B07
+    /* 23DED0 8023D2D0 3C557B5D */ .word 0x3C557B5D /* invalid instruction */
+    /* 23DED4 8023D2D4 9B156BDB */ .word 0x9B156BDB
+    /* 23DED8 8023D2D8 B30D73D9 */ .word 0xB30D73D9
+    /* 23DEDC 8023D2DC FA417417 */ .word 0xFA417417
+    /* 23DEE0 8023D2E0 7BDD6459 */ .word 0x7BDD6459 /* invalid instruction */
+    /* 23DEE4 8023D2E4 FA47FA49 */ .word 0xFA47FA49
+    /* 23DEE8 8023D2E8 93D7ABC9 */ .word 0x93D7ABC9
+enddlabel func_8023D2C8

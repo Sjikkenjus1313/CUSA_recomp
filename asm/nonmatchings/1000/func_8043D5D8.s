@@ -1,0 +1,42 @@
+nonmatching func_8043D5D8
+
+dlabel func_8043D5D8
+    /* 43E1D8 8043D5D8 00000A22 */ .word 0x00000A22 /* invalid instruction */
+    /* 43E1DC 8043D5DC 000024CB */ .word 0x000024CB /* invalid instruction */
+    /* 43E1E0 8043D5E0 00010200 */ .word 0x00010200
+    /* 43E1E4 8043D5E4 01020203 */ .word 0x01020203 /* invalid instruction */
+    /* 43E1E8 8043D5E8 00020300 */ .word 0x00020300
+    /* 43E1EC 8043D5EC 02040302 */ .word 0x02040302 /* invalid instruction */
+    /* 43E1F0 8043D5F0 04030500 */ .word 0x04030500
+    /* 43E1F4 8043D5F4 03050003 */ .word 0x03050003 /* invalid instruction */
+    /* 43E1F8 8043D5F8 03060503 */ .word 0x03060503 /* invalid instruction */
+    /* 43E1FC 8043D5FC 06050304 */ .word 0x06050304 /* invalid instruction */
+    /* 43E200 8043D600 07030407 */ .word 0x07030407
+    /* 43E204 8043D604 07080307 */ .word 0x07080307
+    /* 43E208 8043D608 08030709 */ .word 0x08030709
+    /* 43E20C 8043D60C 08070908 */ .word 0x08070908
+    /* 43E210 8043D610 06030806 */ .word 0x06030806
+    /* 43E214 8043D614 0308080A */ .word 0x0308080A
+    /* 43E218 8043D618 06080A06 */ .word 0x06080A06
+    /* 43E21C 8043D61C 0909000A */ .word 0x0909000A
+    /* 43E220 8043D620 00000000 */ .word 0x00000000
+    /* 43E224 8043D624 F51DFE54 */ .word 0xF51DFE54
+    /* 43E228 8043D628 ECF3F2C6 */ .word 0xECF3F2C6 /* invalid instruction */
+    /* 43E22C 8043D62C FE17EE01 */ .word 0xFE17EE01
+    /* 43E230 8043D630 F596FE20 */ .word 0xF596FE20
+    /* 43E234 8043D634 F46AFAA6 */ .word 0xF46AFAA6
+    /* 43E238 8043D638 FE6BF9EA */ .word 0xFE6BF9EA
+    /* 43E23C 8043D63C F844FE2F */ .word 0xF844FE2F
+    /* 43E240 8043D640 FADFFACE */ .word 0xFADFFACE
+    /* 43E244 8043D644 FE410164 */ .word 0xFE410164
+    /* 43E248 8043D648 FFA1FE92 */ .word 0xFFA1FE92
+    /* 43E24C 8043D64C 0719FD35 */ .word 0x0719FD35 /* invalid instruction */
+    /* 43E250 8043D650 FE5507F4 */ .word 0xFE5507F4
+    /* 43E254 8043D654 FBF40246 */ .word 0xFBF40246
+    /* 43E258 8043D658 E9DA06B6 */ .word 0xE9DA06B6
+    /* 43E25C 8043D65C 02840499 */ .word 0x02840499 /* invalid instruction */
+    /* 43E260 8043D660 0008059A */ .word 0x0008059A /* invalid instruction */
+    /* 43E264 8043D664 002E0800 */ .word 0x002E0800 /* invalid instruction */
+    /* 43E268 8043D668 07F40800 */ .word 0x07F40800 /* invalid instruction */
+    /* 43E26C 8043D66C 0FB4059A */ .word 0x0FB4059A
+enddlabel func_8043D5D8

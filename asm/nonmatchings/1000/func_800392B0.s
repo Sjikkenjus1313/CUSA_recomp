@@ -1,0 +1,71 @@
+nonmatching func_800392B0
+
+dlabel func_800392B0
+    /* 39EB0 800392B0 00000000 */ .word 0x00000000
+    /* 39EB4 800392B4 00000000 */ .word 0x00000000
+    /* 39EB8 800392B8 00000000 */ .word 0x00000000
+    /* 39EBC 800392BC 3F7FFF9B */ .word 0x3F7FFF9B /* invalid instruction */
+    /* 39EC0 800392C0 BB60FC2F */ .word 0xBB60FC2F
+    /* 39EC4 800392C4 00000000 */ .word 0x00000000
+    /* 39EC8 800392C8 3B60FC2F */ .word 0x3B60FC2F
+    /* 39ECC 800392CC 3F7FFF9B */ .word 0x3F7FFF9B /* invalid instruction */
+    /* 39ED0 800392D0 03020000 */ .word 0x03020000 /* invalid instruction */
+    /* 39ED4 800392D4 00726666 */ .word 0x00726666 /* invalid instruction */
+    /* 39ED8 800392D8 FFFC8E55 */ .word 0xFFFC8E55
+    /* 39EDC 800392DC F967C4E0 */ .word 0xF967C4E0
+    /* 39EE0 800392E0 00000000 */ .word 0x00000000
+    /* 39EE4 800392E4 FFFFFFB7 */ .word 0xFFFFFFB7
+    /* 39EE8 800392E8 00000000 */ .word 0x00000000
+    /* 39EEC 800392EC 440F0000 */ .word 0x440F0000
+    /* 39EF0 800392F0 C1EDCB48 */ .word 0xC1EDCB48
+    /* 39EF4 800392F4 4603DB61 */ .word 0x4603DB61 /* invalid instruction */
+    /* 39EF8 800392F8 3B857F30 */ .word 0x3B857F30
+    /* 39EFC 800392FC 444E8000 */ .word 0x444E8000
+    /* 39F00 80039300 C2069638 */ .word 0xC2069638
+    /* 39F04 80039304 460C8F53 */ .word 0x460C8F53 /* invalid instruction */
+    /* 39F08 80039308 3B857F30 */ .word 0x3B857F30
+    /* 39F0C 8003930C 439F0000 */ .word 0x439F0000 /* invalid instruction */
+    /* 39F10 80039310 C2069638 */ .word 0xC2069638
+    /* 39F14 80039314 460C8F53 */ .word 0x460C8F53 /* invalid instruction */
+    /* 39F18 80039318 3B857F30 */ .word 0x3B857F30
+    /* 39F1C 8003931C 439F0000 */ .word 0x439F0000 /* invalid instruction */
+    /* 39F20 80039320 C1CE6A24 */ .word 0xC1CE6A24
+    /* 39F24 80039324 45F64EDF */ .word 0x45F64EDF /* invalid instruction */
+    /* 39F28 80039328 3B85C24C */ .word 0x3B85C24C
+    /* 39F2C 8003932C 444E8000 */ .word 0x444E8000
+    /* 39F30 80039330 C1CE6A24 */ .word 0xC1CE6A24
+    /* 39F34 80039334 45F64EDF */ .word 0x45F64EDF /* invalid instruction */
+    /* 39F38 80039338 3B85C24C */ .word 0x3B85C24C
+    /* 39F3C 8003933C 3F800000 */ .word 0x3F800000 /* invalid instruction */
+    /* 39F40 80039340 00000000 */ .word 0x00000000
+    /* 39F44 80039344 00000000 */ .word 0x00000000
+    /* 39F48 80039348 00000000 */ .word 0x00000000
+    /* 39F4C 8003934C 3F7FFE5D */ .word 0x3F7FFE5D /* invalid instruction */
+    /* 39F50 80039350 BBE6C094 */ .word 0xBBE6C094
+    /* 39F54 80039354 00000000 */ .word 0x00000000
+    /* 39F58 80039358 3BE6C094 */ .word 0x3BE6C094
+    /* 39F5C 8003935C 3F7FFE5D */ .word 0x3F7FFE5D /* invalid instruction */
+    /* 39F60 80039360 00030000 */ .word 0x00030000
+    /* 39F64 80039364 0158CCCC */ .word 0x0158CCCC /* invalid instruction */
+    /* 39F68 80039368 FFFC8E55 */ .word 0xFFFC8E55
+    /* 39F6C 8003936C F967C4E0 */ .word 0xF967C4E0
+    /* 39F70 80039370 00000000 */ .word 0x00000000
+    /* 39F74 80039374 FFFFFFB7 */ .word 0xFFFFFFB7
+    /* 39F78 80039378 00000000 */ .word 0x00000000
+    /* 39F7C 8003937C 44D78000 */ .word 0x44D78000
+    /* 39F80 80039380 C1EDCB48 */ .word 0xC1EDCB48
+    /* 39F84 80039384 4603DB61 */ .word 0x4603DB61 /* invalid instruction */
+    /* 39F88 80039388 3B857F30 */ .word 0x3B857F30
+    /* 39F8C 8003938C 44F74000 */ .word 0x44F74000 /* invalid instruction */
+    /* 39F90 80039390 C2069638 */ .word 0xC2069638
+    /* 39F94 80039394 460C8F53 */ .word 0x460C8F53 /* invalid instruction */
+    /* 39F98 80039398 3B857F30 */ .word 0x3B857F30
+    /* 39F9C 8003939C 44B7C000 */ .word 0x44B7C000
+    /* 39FA0 800393A0 C2069638 */ .word 0xC2069638
+    /* 39FA4 800393A4 460C8F53 */ .word 0x460C8F53 /* invalid instruction */
+    /* 39FA8 800393A8 3B857F30 */ .word 0x3B857F30
+    /* 39FAC 800393AC 44B7C000 */ .word 0x44B7C000
+    /* 39FB0 800393B0 C1CE6A24 */ .word 0xC1CE6A24
+    /* 39FB4 800393B4 45F64EDF */ .word 0x45F64EDF /* invalid instruction */
+    /* 39FB8 800393B8 3B85C24C */ .word 0x3B85C24C
+enddlabel func_800392B0

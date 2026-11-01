@@ -1,0 +1,43 @@
+nonmatching func_8027B9DC
+
+dlabel func_8027B9DC
+    /* 27C5DC 8027B9DC F9E40885 */ .word 0xF9E40885
+    /* 27C5E0 8027B9E0 003A0053 */ .word 0x003A0053 /* invalid instruction */
+    /* 27C5E4 8027B9E4 0899FFFE */ .word 0x0899FFFE
+    /* 27C5E8 8027B9E8 0021FA3E */ .word 0x0021FA3E /* invalid instruction */
+    /* 27C5EC 8027B9EC 0015FC90 */ .word 0x0015FC90 /* invalid instruction */
+    /* 27C5F0 8027B9F0 062DFFEA */ .word 0x062DFFEA /* invalid instruction */
+    /* 27C5F4 8027B9F4 054F03E7 */ .word 0x054F03E7 /* invalid instruction */
+    /* 27C5F8 8027B9F8 FF7C0A98 */ .word 0xFF7C0A98
+    /* 27C5FC 8027B9FC 003B07E7 */ .word 0x003B07E7 /* invalid instruction */
+    /* 27C600 8027BA00 000AFA06 */ .word 0x000AFA06 /* invalid instruction */
+    /* 27C604 8027BA04 0929F947 */ .word 0x0929F947
+    /* 27C608 8027BA08 0F7CF93D */ .word 0x0F7CF93D
+    /* 27C60C 8027BA0C 0FDB0808 */ .word 0x0FDB0808
+    /* 27C610 8027BA10 08000100 */ .word 0x08000100
+    /* 27C614 8027BA14 10000100 */ .word 0x10000100
+    /* 27C618 8027BA18 10000000 */ .word 0x10000000
+    /* 27C61C 8027BA1C 00000000 */ .word 0x00000000
+    /* 27C620 8027BA20 001E00F1 */ .word 0x001E00F1
+    /* 27C624 8027BA24 FFDE00F1 */ .word 0xFFDE00F1
+    /* 27C628 8027BA28 FFB8FEC8 */ .word 0xFFB8FEC8
+    /* 27C62C 8027BA2C FFF9FEC8 */ .word 0xFFF9FEC8
+    /* 27C630 8027BA30 08000800 */ .word 0x08000800
+    /* 27C634 8027BA34 10000800 */ .word 0x10000800
+    /* 27C638 8027BA38 00000800 */ .word 0x00000800
+    /* 27C63C 8027BA3C 0E9707D1 */ .word 0x0E9707D1
+    /* 27C640 8027BA40 003C078B */ .word 0x003C078B /* invalid instruction */
+    /* 27C644 8027BA44 FFF2F63B */ .word 0xFFF2F63B
+    /* 27C648 8027BA48 0F66F69F */ .word 0x0F66F69F
+    /* 27C64C 8027BA4C 20006801 */ .word 0x20006801
+    /* 27C650 8027BA50 074B07D1 */ .word 0x074B07D1
+    /* 27C654 8027BA54 07B3F69F */ .word 0x07B3F69F
+    /* 27C658 8027BA58 68006801 */ .word 0x68006801
+    /* 27C65C 8027BA5C 000011DF */ .word 0x000011DF /* invalid instruction */
+    /* 27C660 8027BA60 03220001 */ .word 0x03220001 /* invalid instruction */
+    /* 27C664 8027BA64 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 27C668 8027BA68 02030402 */ .word 0x02030402 /* invalid instruction */
+    /* 27C66C 8027BA6C 03040002 */ .word 0x03040002 /* invalid instruction */
+    /* 27C670 8027BA70 04000204 */ .word 0x04000204
+    /* 27C674 8027BA74 000011E2 */ .word 0x000011E2 /* invalid instruction */
+enddlabel func_8027B9DC

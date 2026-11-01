@@ -1,0 +1,19 @@
+nonmatching func_803C4404
+
+dlabel func_803C4404
+    /* 3C5004 803C4404 80C2AD83 */ .word 0x80C2AD83
+    /* 3C5008 803C4408 7B7BAAAA */ .word 0x7B7BAAAA /* invalid instruction */
+    /* 3C500C 803C440C CEAA81CC */ .word 0xCEAA81CC
+    /* 3C5010 803C4410 A8CC7AA8 */ .word 0xA8CC7AA8
+    /* 3C5014 803C4414 CEDAA8D7 */ .word 0xCEDAA8D7
+    /* 3C5018 803C4418 5B5B7E53 */ .word 0x5B5B7E53 /* invalid instruction */
+    /* 3C501C 803C441C 6D82A896 */ .word 0x6D82A896
+    /* 3C5020 803C4420 BE7AA8A7 */ .word 0xBE7AA8A7
+    /* 3C5024 803C4424 BFDBD9D7 */ .word 0xBFDBD9D7
+    /* 3C5028 803C4428 A7957C6E */ .word 0xA7957C6E
+    /* 3C502C 803C442C 787B457E */ .word 0x787B457E /* invalid instruction */
+    /* 3C5030 803C4430 96696666 */ .word 0x96696666
+    /* 3C5034 803C4434 95CCD6CB */ .word 0x95CCD6CB
+    /* 3C5038 803C4438 427A787B */ .word 0x427A787B /* invalid instruction */
+    /* 3C503C 803C443C 95C0CDA8 */ .word 0x95C0CDA8
+enddlabel func_803C4404

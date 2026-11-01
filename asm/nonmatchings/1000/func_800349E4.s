@@ -1,0 +1,23 @@
+nonmatching func_800349E4
+
+dlabel func_800349E4
+    /* 355E4 800349E4 2EE00000 */ .word 0x2EE00000
+    /* 355E8 800349E8 80150F14 */ .word 0x80150F14
+    /* 355EC 800349EC 80150F78 */ .word 0x80150F78
+    /* 355F0 800349F0 80150FB4 */ .word 0x80150FB4
+    /* 355F4 800349F4 00000000 */ .word 0x00000000
+    /* 355F8 800349F8 00000000 */ .word 0x00000000
+    /* 355FC 800349FC 00000000 */ .word 0x00000000
+    /* 35600 80034A00 80150F3C */ .word 0x80150F3C
+    /* 35604 80034A04 80150F3C */ .word 0x80150F3C
+    /* 35608 80034A08 00010202 */ .word 0x00010202
+    /* 3560C 80034A0C 0010E666 */ .word 0x0010E666 /* invalid instruction */
+    /* 35610 80034A10 0010E666 */ .word 0x0010E666 /* invalid instruction */
+    /* 35614 80034A14 0030CCCC */ .word 0x0030CCCC /* invalid instruction */
+    /* 35618 80034A18 002CE666 */ .word 0x002CE666 /* invalid instruction */
+    /* 3561C 80034A1C FFB53334 */ .word 0xFFB53334
+    /* 35620 80034A20 003B3333 */ .word 0x003B3333
+    /* 35624 80034A24 00000000 */ .word 0x00000000
+    /* 35628 80034A28 000A6666 */ .word 0x000A6666 /* invalid instruction */
+    /* 3562C 80034A2C 00000000 */ .word 0x00000000
+enddlabel func_800349E4

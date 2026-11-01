@@ -1,0 +1,21 @@
+nonmatching func_80102ADC
+
+dlabel func_80102ADC
+    /* 1036DC 80102ADC 00011721 */ .word 0x00011721 /* invalid instruction */
+    /* 1036E0 80102AE0 801D0302 */ .word 0x801D0302
+    /* 1036E4 80102AE4 17352480 */ .word 0x17352480
+    /* 1036E8 80102AE8 29000E80 */ .word 0x29000E80
+    /* 1036EC 80102AEC 00830201 */ .word 0x00830201 /* invalid instruction */
+    /* 1036F0 80102AF0 2D2A8025 */ .word 0x2D2A8025
+    /* 1036F4 80102AF4 011E0580 */ .word 0x011E0580 /* invalid instruction */
+    /* 1036F8 80102AF8 00820207 */ .word 0x00820207 /* invalid instruction */
+    /* 1036FC 80102AFC 232F2A2F */ .word 0x232F2A2F
+    /* 103700 80102B00 2A331702 */ .word 0x2A331702
+    /* 103704 80102B04 84000721 */ .word 0x84000721
+    /* 103708 80102B08 2A1F2424 */ .word 0x2A1F2424
+    /* 10370C 80102B0C 2A1A0284 */ .word 0x2A1A0284
+    /* 103710 80102B10 0002281E */ .word 0x0002281E
+    /* 103714 80102B14 19801B02 */ .word 0x19801B02
+    /* 103718 80102B18 12020283 */ .word 0x12020283
+    /* 10371C 80102B1C 00022115 */ .word 0x00022115 /* invalid instruction */
+enddlabel func_80102ADC

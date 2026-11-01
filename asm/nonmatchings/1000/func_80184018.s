@@ -1,0 +1,10 @@
+nonmatching func_80184018
+
+dlabel func_80184018
+    /* 184C18 80184018 123B6660 */ .word 0x123B6660
+    /* 184C1C 8018401C FF0F3333 */ .word 0xFF0F3333
+    /* 184C20 80184020 D66A6640 */ .word 0xD66A6640
+    /* 184C24 80184024 00000000 */ .word 0x00000000
+    /* 184C28 80184028 00498610 */ .word 0x00498610 /* invalid instruction */
+    /* 184C2C 8018402C 207E99C0 */ .word 0x207E99C0
+enddlabel func_80184018

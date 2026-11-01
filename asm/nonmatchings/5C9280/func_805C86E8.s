@@ -1,0 +1,20 @@
+nonmatching func_805C86E8
+
+dlabel func_805C86E8
+    /* 5C92E8 805C86E8 020901AA */ .word 0x020901AA /* invalid instruction */
+    /* 5C92EC 805C86EC 015A011A */ .word 0x015A011A /* invalid instruction */
+    /* 5C92F0 805C86F0 FF66FFB6 */ .word 0xFF66FFB6
+    /* 5C92F4 805C86F4 FFE8FFFA */ .word 0xFFE8FFFA
+    /* 5C92F8 805C86F8 FFFF0000 */ .word 0xFFFF0000
+    /* 5C92FC 805C86FC 00000000 */ .word 0x00000000
+    /* 5C9300 805C8700 03DF0146 */ .word 0x03DF0146 /* invalid instruction */
+    /* 5C9304 805C8704 00530010 */ .word 0x00530010 /* invalid instruction */
+    /* 5C9308 805C8708 0001FFFF */ .word 0x0001FFFF
+    /* 5C930C 805C870C 00000000 */ .word 0x00000000
+    /* 5C9310 805C8710 FE76FE45 */ .word 0xFE76FE45
+    /* 5C9314 805C8714 FE59FE7A */ .word 0xFE59FE7A
+    /* 5C9318 805C8718 FE9AFEB9 */ .word 0xFE9AFEB9
+    /* 5C931C 805C871C FED5FEEE */ .word 0xFED5FEEE
+    /* 5C9320 805C8720 09000896 */ .word 0x09000896
+    /* 5C9324 805C8724 07ED0744 */ .word 0x07ED0744 /* invalid instruction */
+enddlabel func_805C86E8

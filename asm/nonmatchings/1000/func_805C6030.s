@@ -1,0 +1,13 @@
+nonmatching func_805C6030
+
+dlabel func_805C6030
+    /* 5C6C30 805C6030 FFF5FFFA */ .word 0xFFF5FFFA
+    /* 5C6C34 805C6034 00010001 */ .word 0x00010001 /* invalid instruction */
+    /* 5C6C38 805C6038 0131FE96 */ .word 0x0131FE96 /* invalid instruction */
+    /* 5C6C3C 805C603C FF8D0037 */ .word 0xFF8D0037
+    /* 5C6C40 805C6040 001FFFFA */ .word 0x001FFFFA
+    /* 5C6C44 805C6044 FFF90000 */ .word 0xFFF90000
+    /* 5C6C48 805C6048 FA720039 */ .word 0xFA720039
+    /* 5C6C4C 805C604C 03D9FFB1 */ .word 0x03D9FFB1
+    /* 5C6C50 805C6050 FD570052 */ .word 0xFD570052
+enddlabel func_805C6030

@@ -1,0 +1,27 @@
+nonmatching func_804A5184
+
+dlabel func_804A5184
+    /* 4A5D84 804A5184 041FFFF1 */ .word 0x041FFFF1 /* invalid instruction */
+    /* 4A5D88 804A5188 F5610055 */ .word 0xF5610055
+    /* 4A5D8C 804A518C FFF1F7CD */ .word 0xFFF1F7CD
+    /* 4A5D90 804A5190 0219FFE4 */ .word 0x0219FFE4 /* invalid instruction */
+    /* 4A5D94 804A5194 F267FE62 */ .word 0xF267FE62
+    /* 4A5D98 804A5198 FFE4F4EF */ .word 0xFFE4F4EF
+    /* 4A5D9C 804A519C F6F4FFE4 */ .word 0xF6F4FFE4
+    /* 4A5DA0 804A51A0 FA02F33B */ .word 0xFA02F33B
+    /* 4A5DA4 804A51A4 FFE4FC8D */ .word 0xFFE4FC8D
+    /* 4A5DA8 804A51A8 00000800 */ .word 0x00000800
+    /* 4A5DAC 804A51AC 10000800 */ .word 0x10000800
+    /* 4A5DB0 804A51B0 10000000 */ .word 0x10000000
+    /* 4A5DB4 804A51B4 00000000 */ .word 0x00000000
+    /* 4A5DB8 804A51B8 20000800 */ .word 0x20000800
+    /* 4A5DBC 804A51BC 20000000 */ .word 0x20000000
+    /* 4A5DC0 804A51C0 00002A01 */ .word 0x00002A01 /* invalid instruction */
+    /* 4A5DC4 804A51C4 08000001 */ .word 0x08000001
+    /* 4A5DC8 804A51C8 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 4A5DCC 804A51CC 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 4A5DD0 804A51D0 03000405 */ .word 0x03000405 /* invalid instruction */
+    /* 4A5DD4 804A51D4 06000102 */ .word 0x06000102
+    /* 4A5DD8 804A51D8 06070402 */ .word 0x06070402 /* invalid instruction */
+    /* 4A5DDC 804A51DC 03000809 */ .word 0x03000809
+enddlabel func_804A5184

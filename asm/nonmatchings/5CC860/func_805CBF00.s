@@ -1,0 +1,10 @@
+nonmatching func_805CBF00
+
+dlabel func_805CBF00
+    /* 5CCB00 805CBF00 FB59FD6B */ .word 0xFB59FD6B
+    /* 5CCB04 805CBF04 003E021A */ .word 0x003E021A /* invalid instruction */
+    /* 5CCB08 805CBF08 FA91F7D3 */ .word 0xFA91F7D3
+    /* 5CCB0C 805CBF0C F762F896 */ .word 0xF762F896
+    /* 5CCB10 805CBF10 FAB1FD0C */ .word 0xFAB1FD0C
+    /* 5CCB14 805CBF14 FF2900BE */ .word 0xFF2900BE
+enddlabel func_805CBF00

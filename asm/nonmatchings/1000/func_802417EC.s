@@ -1,0 +1,10 @@
+nonmatching func_802417EC
+
+dlabel func_802417EC
+    /* 2423EC 802417EC FCC10910 */ .word 0xFCC10910
+    /* 2423F0 802417F0 0000FCD7 */ .word 0x0000FCD7 /* invalid instruction */
+    /* 2423F4 802417F4 091FFFF6 */ .word 0x091FFFF6
+    /* 2423F8 802417F8 F973049F */ .word 0xF973049F
+    /* 2423FC 802417FC FFF6F95B */ .word 0xFFF6F95B
+    /* 242400 80241800 0933FFED */ .word 0x0933FFED
+enddlabel func_802417EC

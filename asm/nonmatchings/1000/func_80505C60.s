@@ -1,0 +1,10 @@
+nonmatching func_80505C60
+
+dlabel func_80505C60
+    /* 506860 80505C60 000000FF */ .word 0x000000FF
+    /* 506864 80505C64 FFFFFFFF */ .word 0xFFFFFFFF
+    /* 506868 80505C68 00FFFFFF */ .word 0x00FFFFFF /* invalid instruction */
+    /* 50686C 80505C6C FFF9F900 */ .word 0xFFF9F900
+    /* 506870 80505C70 FFF90000 */ .word 0xFFF90000
+    /* 506874 80505C74 00000000 */ .word 0x00000000
+enddlabel func_80505C60

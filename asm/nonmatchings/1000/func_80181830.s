@@ -1,0 +1,7 @@
+nonmatching func_80181830
+
+dlabel func_80181830
+    /* 182430 80181830 00000000 */ .word 0x00000000
+    /* 182434 80181834 00000000 */ .word 0x00000000
+    /* 182438 80181838 000012D7 */ .word 0x000012D7 /* invalid instruction */
+enddlabel func_80181830

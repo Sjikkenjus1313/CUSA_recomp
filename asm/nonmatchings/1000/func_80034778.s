@@ -1,0 +1,43 @@
+nonmatching func_80034778
+
+dlabel func_80034778
+    /* 35378 80034778 80150EDC */ .word func_80150EDC
+    /* 3537C 8003477C 00000000 */ .word 0x00000000
+    /* 35380 80034780 00000000 */ .word 0x00000000
+    /* 35384 80034784 01010202 */ .word 0x01010202 /* invalid instruction */
+    /* 35388 80034788 0018CCCC */ .word 0x0018CCCC /* invalid instruction */
+    /* 3538C 8003478C 0018CCCC */ .word 0x0018CCCC /* invalid instruction */
+    /* 35390 80034790 003F0000 */ .word 0x003F0000 /* invalid instruction */
+    /* 35394 80034794 003F0000 */ .word 0x003F0000 /* invalid instruction */
+    /* 35398 80034798 FF4C0000 */ .word 0xFF4C0000
+    /* 3539C 8003479C 00A99999 */ .word 0x00A99999 /* invalid instruction */
+    /* 353A0 800347A0 00756666 */ .word 0x00756666 /* invalid instruction */
+    /* 353A4 800347A4 00100000 */ .word 0x00100000
+    /* 353A8 800347A8 00000000 */ .word 0x00000000
+    /* 353AC 800347AC 00000000 */ .word 0x00000000
+    /* 353B0 800347B0 00000000 */ .word 0x00000000
+    /* 353B4 800347B4 04D80000 */ .word 0x04D80000 /* invalid instruction */
+    /* 353B8 800347B8 0C800000 */ .word 0x0C800000
+    /* 353BC 800347BC 2EE00000 */ .word 0x2EE00000
+    /* 353C0 800347C0 80150EFC */ .word D_80150EFC
+    /* 353C4 800347C4 80150F60 */ .word 0x80150F60
+    /* 353C8 800347C8 80150F9C */ .word 0x80150F9C
+    /* 353CC 800347CC 00000000 */ .word 0x00000000
+    /* 353D0 800347D0 00000000 */ .word 0x00000000
+    /* 353D4 800347D4 00000000 */ .word 0x00000000
+    /* 353D8 800347D8 80150F24 */ .word 0x80150F24
+    /* 353DC 800347DC 80150F24 */ .word 0x80150F24
+    /* 353E0 800347E0 00000202 */ .word 0x00000202
+    /* 353E4 800347E4 00110000 */ .word 0x00110000
+    /* 353E8 800347E8 00110000 */ .word 0x00110000
+    /* 353EC 800347EC 0026CCCC */ .word 0x0026CCCC /* invalid instruction */
+    /* 353F0 800347F0 0026CCCC */ .word 0x0026CCCC /* invalid instruction */
+    /* 353F4 800347F4 FFBF3334 */ .word 0xFFBF3334
+    /* 353F8 800347F8 00360000 */ .word 0x00360000 /* invalid instruction */
+    /* 353FC 800347FC 00000000 */ .word 0x00000000
+    /* 35400 80034800 00109999 */ .word 0x00109999 /* invalid instruction */
+    /* 35404 80034804 00000000 */ .word 0x00000000
+    /* 35408 80034808 00000000 */ .word 0x00000000
+    /* 3540C 8003480C 00000000 */ .word 0x00000000
+    /* 35410 80034810 04B00000 */ .word 0x04B00000
+enddlabel func_80034778

@@ -1,0 +1,62 @@
+nonmatching func_80124F68
+
+dlabel func_80124F68
+    /* 125B68 80124F68 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125B6C 80124F6C 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B70 80124F70 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B74 80124F74 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B78 80124F78 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B7C 80124F7C 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125B80 80124F80 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125B84 80124F84 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125B88 80124F88 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125B8C 80124F8C 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B90 80124F90 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B94 80124F94 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B98 80124F98 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125B9C 80124F9C 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125BA0 80124FA0 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125BA4 80124FA4 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125BA8 80124FA8 1F181F18 */ .word 0x1F181F18 /* invalid instruction */
+    /* 125BAC 80124FAC 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125BB0 80124FB0 181F181F */ .word 0x181F181F /* invalid instruction */
+    /* 125BB4 80124FB4 04200001 */ .word 0x04200001
+    /* 125BB8 80124FB8 00000377 */ .word 0x00000377 /* invalid instruction */
+    /* 125BBC 80124FBC 00000000 */ .word 0x00000000
+    /* 125BC0 80124FC0 00000000 */ .word 0x00000000
+    /* 125BC4 80124FC4 00000000 */ .word 0x00000000
+    /* 125BC8 80124FC8 00000000 */ .word 0x00000000
+    /* 125BCC 80124FCC 00000000 */ .word 0x00000000
+    /* 125BD0 80124FD0 00000000 */ .word 0x00000000
+    /* 125BD4 80124FD4 00000000 */ .word 0x00000000
+    /* 125BD8 80124FD8 00000000 */ .word 0x00000000
+    /* 125BDC 80124FDC 00000000 */ .word 0x00000000
+    /* 125BE0 80124FE0 00000000 */ .word 0x00000000
+    /* 125BE4 80124FE4 00000000 */ .word 0x00000000
+    /* 125BE8 80124FE8 00000000 */ .word 0x00000000
+    /* 125BEC 80124FEC 00000000 */ .word 0x00000000
+    /* 125BF0 80124FF0 00000000 */ .word 0x00000000
+    /* 125BF4 80124FF4 00000000 */ .word 0x00000000
+    /* 125BF8 80124FF8 00000000 */ .word 0x00000000
+    /* 125BFC 80124FFC 00000000 */ .word 0x00000000
+    /* 125C00 80125000 00000000 */ .word 0x00000000
+    /* 125C04 80125004 00000000 */ .word 0x00000000
+    /* 125C08 80125008 00000000 */ .word 0x00000000
+    /* 125C0C 8012500C 00000000 */ .word 0x00000000
+    /* 125C10 80125010 00000000 */ .word 0x00000000
+    /* 125C14 80125014 00000000 */ .word 0x00000000
+    /* 125C18 80125018 00000000 */ .word 0x00000000
+    /* 125C1C 8012501C 00000000 */ .word 0x00000000
+    /* 125C20 80125020 00000000 */ .word 0x00000000
+    /* 125C24 80125024 00000000 */ .word 0x00000000
+    /* 125C28 80125028 00000000 */ .word 0x00000000
+    /* 125C2C 8012502C 00000000 */ .word 0x00000000
+    /* 125C30 80125030 00000000 */ .word 0x00000000
+    /* 125C34 80125034 00000000 */ .word 0x00000000
+    /* 125C38 80125038 00000000 */ .word 0x00000000
+    /* 125C3C 8012503C 00000000 */ .word 0x00000000
+    /* 125C40 80125040 00000000 */ .word 0x00000000
+    /* 125C44 80125044 00000000 */ .word 0x00000000
+    /* 125C48 80125048 00000000 */ .word 0x00000000
+    /* 125C4C 8012504C 00000000 */ .word 0x00000000
+enddlabel func_80124F68

@@ -1,0 +1,10 @@
+nonmatching func_80277C68
+
+dlabel func_80277C68
+    /* 278868 80277C68 05070006 */ .word 0x05070006 /* invalid instruction */
+    /* 27886C 80277C6C 00000000 */ .word 0x00000000
+    /* 278870 80277C70 093E0000 */ .word 0x093E0000
+    /* 278874 80277C74 0000093E */ .word 0x0000093E
+    /* 278878 80277C78 0D0C0000 */ .word 0x0D0C0000
+    /* 27887C 80277C7C 00000D0C */ .word 0x00000D0C
+enddlabel func_80277C68

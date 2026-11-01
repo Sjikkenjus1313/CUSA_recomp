@@ -1,0 +1,39 @@
+nonmatching func_8033B360
+
+dlabel func_8033B360
+    /* 33BF60 8033B360 03070E0D */ .word 0x03070E0D
+    /* 33BF64 8033B364 0E0F080C */ .word 0x0E0F080C
+    /* 33BF68 8033B368 0F101112 */ .word 0x0F101112
+    /* 33BF6C 8033B36C 10020313 */ .word 0x10020313
+    /* 33BF70 8033B370 140D030E */ .word 0x140D030E
+    /* 33BF74 8033B374 100D0F13 */ .word 0x100D0F13
+    /* 33BF78 8033B378 0E070815 */ .word 0x0E070815
+    /* 33BF7C 8033B37C 1610080F */ .word 0x1610080F
+    /* 33BF80 8033B380 0E101215 */ .word 0x0E101215
+    /* 33BF84 8033B384 131D001B */ .word 0x131D001B
+    /* 33BF88 8033B388 00000000 */ .word 0x00000000
+    /* 33BF8C 8033B38C 0479FE54 */ .word 0x0479FE54 /* invalid instruction */
+    /* 33BF90 8033B390 F4150583 */ .word 0xF4150583
+    /* 33BF94 8033B394 FE54F0A4 */ .word 0xFE54F0A4
+    /* 33BF98 8033B398 01B201B8 */ .word 0x01B201B8 /* invalid instruction */
+    /* 33BF9C 8033B39C F38A03F5 */ .word 0xF38A03F5
+    /* 33BFA0 8033B3A0 01B8EC49 */ .word 0x01B8EC49 /* invalid instruction */
+    /* 33BFA4 8033B3A4 0698FE54 */ .word 0x0698FE54 /* invalid instruction */
+    /* 33BFA8 8033B3A8 ED22017E */ .word 0xED22017E /* invalid instruction */
+    /* 33BFAC 8033B3AC FE54024D */ .word 0xFE54024D
+    /* 33BFB0 8033B3B0 0222FE54 */ .word 0x0222FE54 /* invalid instruction */
+    /* 33BFB4 8033B3B4 FEB0FEA1 */ .word 0xFEB0FEA1
+    /* 33BFB8 8033B3B8 01B80207 */ .word 0x01B80207 /* invalid instruction */
+    /* 33BFBC 8033B3BC FFF301B8 */ .word 0xFFF301B8
+    /* 33BFC0 8033B3C0 FA8F02C6 */ .word 0xFA8F02C6
+    /* 33BFC4 8033B3C4 FE54FB26 */ .word 0xFE54FB26
+    /* 33BFC8 8033B3C8 0236020B */ .word 0x0236020B /* invalid instruction */
+    /* 33BFCC 8033B3CC EBC0FE40 */ .word 0xEBC0FE40
+    /* 33BFD0 8033B3D0 020BFA47 */ .word 0x020BFA47 /* invalid instruction */
+    /* 33BFD4 8033B3D4 FCE3020B */ .word 0xFCE3020B
+    /* 33BFD8 8033B3D8 01BAFBDA */ .word 0x01BAFBDA /* invalid instruction */
+    /* 33BFDC 8033B3DC 01B8097E */ .word 0x01B8097E /* invalid instruction */
+    /* 33BFE0 8033B3E0 FA77020B */ .word 0xFA77020B
+    /* 33BFE4 8033B3E4 088BFDF4 */ .word 0x088BFDF4
+    /* 33BFE8 8033B3E8 FE540A6C */ .word 0xFE540A6C
+enddlabel func_8033B360

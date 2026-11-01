@@ -1,0 +1,16 @@
+nonmatching func_805CA938
+
+dlabel func_805CA938
+    /* 5CB538 805CA938 00000002 */ .word 0x00000002
+    /* 5CB53C 805CA93C 00000008 */ .word 0x00000008
+    /* 5CB540 805CA940 006A0012 */ .word 0x006A0012 /* invalid instruction */
+    /* 5CB544 805CA944 00080002 */ .word 0x00080002
+    /* 5CB548 805CA948 00010000 */ .word 0x00010000
+    /* 5CB54C 805CA94C 00000000 */ .word 0x00000000
+    /* 5CB550 805CA950 015600A3 */ .word 0x015600A3 /* invalid instruction */
+    /* 5CB554 805CA954 002D0010 */ .word 0x002D0010 /* invalid instruction */
+    /* 5CB558 805CA958 00050002 */ .word 0x00050002
+    /* 5CB55C 805CA95C 00010000 */ .word 0x00010000
+    /* 5CB560 805CA960 FE00FE50 */ .word 0xFE00FE50
+    /* 5CB564 805CA964 FF14FFA5 */ .word 0xFF14FFA5
+enddlabel func_805CA938

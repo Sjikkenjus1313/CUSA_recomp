@@ -1,0 +1,23 @@
+nonmatching func_800EC928
+
+dlabel func_800EC928
+    /* ED528 800EC928 04080604 */ .word 0x04080604
+    /* ED52C 800EC92C 0906090A */ .word 0x0906090A
+    /* ED530 800EC930 0303020A */ .word 0x0303020A /* invalid instruction */
+    /* ED534 800EC934 0302090A */ .word 0x0302090A /* invalid instruction */
+    /* ED538 800EC938 0B031400 */ .word 0x0B031400
+    /* ED53C 800EC93C 00000015 */ .word 0x00000015 /* invalid instruction */
+    /* ED540 800EC940 0B0C0D0C */ .word 0x0B0C0D0C
+    /* ED544 800EC944 0D0E0D0E */ .word 0x0D0E0D0E
+    /* ED548 800EC948 0B0E0F0C */ .word 0x0B0E0F0C
+    /* ED54C 800EC94C 0F101110 */ .word 0x0F101110
+    /* ED550 800EC950 11121112 */ .word 0x11121112
+    /* ED554 800EC954 0F121310 */ .word 0x0F121310
+    /* ED558 800EC958 13141514 */ .word 0x13141514
+    /* ED55C 800EC95C 15161516 */ .word 0x15161516
+    /* ED560 800EC960 13161714 */ .word 0x13161714
+    /* ED564 800EC964 17181918 */ .word 0x17181918
+    /* ED568 800EC968 191A191A */ .word 0x191A191A /* invalid instruction */
+    /* ED56C 800EC96C 171A1B18 */ .word 0x171A1B18
+    /* ED570 800EC970 1B1C1D1C */ .word 0x1B1C1D1C /* invalid instruction */
+enddlabel func_800EC928

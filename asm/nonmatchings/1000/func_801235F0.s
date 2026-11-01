@@ -1,0 +1,10 @@
+nonmatching func_801235F0
+
+dlabel func_801235F0
+    /* 1241F0 801235F0 480148C5 */ .word 0x480148C5 /* invalid instruction */
+    /* 1241F4 801235F4 50015003 */ .word 0x50015003
+    /* 1241F8 801235F8 504351D1 */ .word 0x504351D1
+    /* 1241FC 801235FC 51DD5215 */ .word 0x51DD5215
+    /* 124200 80123600 521D521F */ .word 0x521D521F
+    /* 124204 80123604 525F5801 */ .word 0x525F5801
+enddlabel func_801235F0

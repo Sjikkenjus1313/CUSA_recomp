@@ -1,0 +1,13 @@
+nonmatching func_80143830
+
+dlabel func_80143830
+    /* 144430 80143830 2D2D2D2D */ .word 0x2D2D2D2D
+    /* 144434 80143834 2D2D2D2D */ .word 0x2D2D2D2D
+    /* 144438 80143838 26262578 */ .word 0x26262578
+    /* 14443C 8014383C 7C7C7C78 */ .word 0x7C7C7C78 /* invalid instruction */
+    /* 144440 80143840 7C604040 */ .word 0x7C604040 /* invalid instruction */
+    /* 144444 80143844 31313131 */ .word 0x31313131
+    /* 144448 80143848 31313123 */ .word 0x31313123
+    /* 14444C 8014384C 17142331 */ .word 0x17142331
+    /* 144450 80143850 2D2D2D2D */ .word 0x2D2D2D2D
+enddlabel func_80143830

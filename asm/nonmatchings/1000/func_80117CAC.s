@@ -1,0 +1,25 @@
+nonmatching func_80117CAC
+
+dlabel func_80117CAC
+    /* 1188AC 80117CAC 00000000 */ .word 0x00000000
+    /* 1188B0 80117CB0 00000000 */ .word 0x00000000
+    /* 1188B4 80117CB4 00000000 */ .word 0x00000000
+    /* 1188B8 80117CB8 00000000 */ .word 0x00000000
+    /* 1188BC 80117CBC 00AD897F */ .word 0x00AD897F /* invalid instruction */
+    /* 1188C0 80117CC0 7F7F7F67 */ .word 0x7F7F7F67 /* invalid instruction */
+    /* 1188C4 80117CC4 7F7F675B */ .word 0x7F7F675B /* invalid instruction */
+    /* 1188C8 80117CC8 4A4A7FDE */ .word 0x4A4A7FDE /* invalid instruction */
+    /* 1188CC 80117CCC DE91E38F */ .word 0xDE91E38F
+    /* 1188D0 80117CD0 4E618E95 */ .word 0x4E618E95 /* invalid instruction */
+    /* 1188D4 80117CD4 BDAFA1F9 */ .word 0xBDAFA1F9
+    /* 1188D8 80117CD8 FCF5F6F6 */ .word 0xFCF5F6F6
+    /* 1188DC 80117CDC EFEFEAC2 */ .word 0xEFEFEAC2 /* invalid instruction */
+    /* 1188E0 80117CE0 00000000 */ .word 0x00000000
+    /* 1188E4 80117CE4 00000000 */ .word 0x00000000
+    /* 1188E8 80117CE8 00000000 */ .word 0x00000000
+    /* 1188EC 80117CEC 00000000 */ .word 0x00000000
+    /* 1188F0 80117CF0 00000000 */ .word 0x00000000
+    /* 1188F4 80117CF4 00000000 */ .word 0x00000000
+    /* 1188F8 80117CF8 00000000 */ .word 0x00000000
+    /* 1188FC 80117CFC 00C08181 */ .word 0x00C08181 /* invalid instruction */
+enddlabel func_80117CAC

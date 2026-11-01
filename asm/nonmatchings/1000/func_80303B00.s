@@ -1,0 +1,74 @@
+nonmatching func_80303B00
+
+dlabel func_80303B00
+    /* 304700 80303B00 00000000 */ .word 0x00000000
+    /* 304704 80303B04 04040004 */ .word 0x04040004 /* invalid instruction */
+    /* 304708 80303B08 00000000 */ .word 0x00000000
+    /* 30470C 80303B0C F5A5FF8B */ .word 0xF5A5FF8B
+    /* 304710 80303B10 06B2F5A5 */ .word 0x06B2F5A5
+    /* 304714 80303B14 FF7F21A2 */ .word 0xFF7F21A2
+    /* 304718 80303B18 18CD01F0 */ .word 0x18CD01F0 /* invalid instruction */
+    /* 30471C 80303B1C 21A2F5A5 */ .word 0x21A2F5A5
+    /* 304720 80303B20 FFA7EBC2 */ .word 0xFFA7EBC2
+    /* 304724 80303B24 18CD02AC */ .word 0x18CD02AC /* invalid instruction */
+    /* 304728 80303B28 E7020800 */ .word 0xE7020800
+    /* 30472C 80303B2C 02001000 */ .word 0x02001000 /* invalid instruction */
+    /* 304730 80303B30 02001000 */ .word 0x02001000 /* invalid instruction */
+    /* 304734 80303B34 FC010000 */ .word 0xFC010000
+    /* 304738 80303B38 02000000 */ .word 0x02000000 /* invalid instruction */
+    /* 30473C 80303B3C FC010322 */ .word 0xFC010322
+    /* 304740 80303B40 000016D3 */ .word 0x000016D3 /* invalid instruction */
+    /* 304744 80303B44 00010200 */ .word 0x00010200
+    /* 304748 80303B48 01020300 */ .word 0x01020300 /* invalid instruction */
+    /* 30474C 80303B4C 04030004 */ .word 0x04030004
+    /* 304750 80303B50 00020400 */ .word 0x00020400
+    /* 304754 80303B54 02040000 */ .word 0x02040000 /* invalid instruction */
+    /* 304758 80303B58 00000002 */ .word 0x00000002
+    /* 30475C 80303B5C 00000000 */ .word 0x00000000
+    /* 304760 80303B60 E34CD477 */ .word 0xE34CD477
+    /* 304764 80303B64 36A30000 */ .word 0x36A30000
+    /* 304768 80303B68 00000104 */ .word 0x00000104 /* invalid instruction */
+    /* 30476C 80303B6C FFFFFFFF */ .word 0xFFFFFFFF
+    /* 304770 80303B70 00000000 */ .word 0x00000000
+    /* 304774 80303B74 00000000 */ .word 0x00000000
+    /* 304778 80303B78 04040004 */ .word 0x04040004 /* invalid instruction */
+    /* 30477C 80303B7C 00000000 */ .word 0x00000000
+    /* 304780 80303B80 F6CCFFCA */ .word 0xF6CCFFCA
+    /* 304784 80303B84 FD7BF6CC */ .word 0xFD7BF6CC
+    /* 304788 80303B88 FFB7186B */ .word 0xFFB7186B
+    /* 30478C 80303B8C 19F402BC */ .word 0x19F402BC /* invalid instruction */
+    /* 304790 80303B90 13AB19F4 */ .word 0x13AB19F4
+    /* 304794 80303B94 023BF6AB */ .word 0x023BF6AB /* invalid instruction */
+    /* 304798 80303B98 F6CCFFCA */ .word 0xF6CCFFCA
+    /* 30479C 80303B9C F6AB0400 */ .word 0xF6AB0400
+    /* 3047A0 80303BA0 02000C00 */ .word 0x02000C00 /* invalid instruction */
+    /* 3047A4 80303BA4 02000C00 */ .word 0x02000C00 /* invalid instruction */
+    /* 3047A8 80303BA8 FC010000 */ .word 0xFC010000
+    /* 3047AC 80303BAC FC010000 */ .word 0xFC010000
+    /* 3047B0 80303BB0 02000322 */ .word 0x02000322 /* invalid instruction */
+    /* 3047B4 80303BB4 000016D3 */ .word 0x000016D3 /* invalid instruction */
+    /* 3047B8 80303BB8 00010200 */ .word 0x00010200
+    /* 3047BC 80303BBC 01020002 */ .word 0x01020002 /* invalid instruction */
+    /* 3047C0 80303BC0 03000203 */ .word 0x03000203 /* invalid instruction */
+    /* 3047C4 80303BC4 04000304 */ .word 0x04000304
+    /* 3047C8 80303BC8 00030000 */ .word 0x00030000
+    /* 3047CC 80303BCC 2907002A */ .word 0x2907002A
+    /* 3047D0 80303BD0 00000000 */ .word 0x00000000
+    /* 3047D4 80303BD4 FC7501A3 */ .word 0xFC7501A3
+    /* 3047D8 80303BD8 FFA5FCA6 */ .word 0xFFA5FCA6
+    /* 3047DC 80303BDC 018CFFB3 */ .word 0x018CFFB3
+    /* 3047E0 80303BE0 FCA602BD */ .word 0xFCA602BD
+    /* 3047E4 80303BE4 FFB3FC75 */ .word 0xFFB3FC75
+    /* 3047E8 80303BE8 02BDFFA5 */ .word 0x02BDFFA5 /* invalid instruction */
+    /* 3047EC 80303BEC 009001BF */ .word 0x009001BF /* invalid instruction */
+    /* 3047F0 80303BF0 FF9300C2 */ .word 0xFF9300C2
+    /* 3047F4 80303BF4 01BFFF9E */ .word 0x01BFFF9E /* invalid instruction */
+    /* 3047F8 80303BF8 00C202D9 */ .word 0x00C202D9 /* invalid instruction */
+    /* 3047FC 80303BFC FF9E0090 */ .word 0xFF9E0090
+    /* 304800 80303C00 02D9FF93 */ .word 0x02D9FF93 /* invalid instruction */
+    /* 304804 80303C04 040101DA */ .word 0x040101DA
+    /* 304808 80303C08 FF9C0432 */ .word 0xFF9C0432
+    /* 30480C 80303C0C 01C3FFAA */ .word 0x01C3FFAA /* invalid instruction */
+    /* 304810 80303C10 043202F4 */ .word 0x043202F4
+    /* 304814 80303C14 FFAA0401 */ .word 0xFFAA0401
+enddlabel func_80303B00

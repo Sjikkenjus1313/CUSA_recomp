@@ -1,0 +1,43 @@
+nonmatching func_8044EA84
+
+dlabel func_8044EA84
+    /* 44F684 8044EA84 20000800 */ .word 0x20000800
+    /* 44F688 8044EA88 00000000 */ .word 0x00000000
+    /* 44F68C 8044EA8C 20000000 */ .word 0x20000000
+    /* 44F690 8044EA90 00002730 */ .word 0x00002730
+    /* 44F694 8044EA94 09180001 */ .word 0x09180001
+    /* 44F698 8044EA98 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 44F69C 8044EA9C 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 44F6A0 8044EAA0 03000204 */ .word 0x03000204 /* invalid instruction */
+    /* 44F6A4 8044EAA4 03020403 */ .word 0x03020403 /* invalid instruction */
+    /* 44F6A8 8044EAA8 03040503 */ .word 0x03040503 /* invalid instruction */
+    /* 44F6AC 8044EAAC 04050506 */ .word 0x04050506 /* invalid instruction */
+    /* 44F6B0 8044EAB0 03050603 */ .word 0x03050603 /* invalid instruction */
+    /* 44F6B4 8044EAB4 05070605 */ .word 0x05070605 /* invalid instruction */
+    /* 44F6B8 8044EAB8 07060800 */ .word 0x07060800 /* invalid instruction */
+    /* 44F6BC 8044EABC 03080003 */ .word 0x03080003 /* invalid instruction */
+    /* 44F6C0 8044EAC0 03090803 */ .word 0x03090803 /* invalid instruction */
+    /* 44F6C4 8044EAC4 09080306 */ .word 0x09080306
+    /* 44F6C8 8044EAC8 09030609 */ .word 0x09030609
+    /* 44F6CC 8044EACC 0909000A */ .word 0x0909000A
+    /* 44F6D0 8044EAD0 00000000 */ .word 0x00000000
+    /* 44F6D4 8044EAD4 042EFFB9 */ .word 0x042EFFB9
+    /* 44F6D8 8044EAD8 048B0691 */ .word 0x048B0691
+    /* 44F6DC 8044EADC FFC902F6 */ .word 0xFFC902F6
+    /* 44F6E0 8044EAE0 04B2FFC6 */ .word 0x04B2FFC6
+    /* 44F6E4 8044EAE4 00370071 */ .word 0x00370071
+    /* 44F6E8 8044EAE8 FFB5FF47 */ .word 0xFFB5FF47
+    /* 44F6EC 8044EAEC 02C4FFC4 */ .word 0x02C4FFC4 /* invalid instruction */
+    /* 44F6F0 8044EAF0 FD9B00CB */ .word 0xFD9B00CB
+    /* 44F6F4 8044EAF4 FFC1FAEE */ .word 0xFFC1FAEE
+    /* 44F6F8 8044EAF8 FC77FFB0 */ .word 0xFC77FFB0
+    /* 44F6FC 8044EAFC FA19FEC4 */ .word 0xFA19FEC4
+    /* 44F700 8044EB00 FFBEF867 */ .word 0xFFBEF867
+    /* 44F704 8044EB04 FC5B0137 */ .word 0xFC5B0137
+    /* 44F708 8044EB08 09B2F50D */ .word 0x09B2F50D
+    /* 44F70C 8044EB0C 012EFFD4 */ .word 0x012EFFD4 /* invalid instruction */
+    /* 44F710 8044EB10 0000063D */ .word 0x0000063D /* invalid instruction */
+    /* 44F714 8044EB14 00000800 */ .word 0x00000800
+    /* 44F718 8044EB18 08000800 */ .word 0x08000800
+    /* 44F71C 8044EB1C 1000063D */ .word 0x1000063D
+enddlabel func_8044EA84

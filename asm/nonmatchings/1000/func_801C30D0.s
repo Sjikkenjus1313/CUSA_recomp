@@ -1,0 +1,38 @@
+nonmatching func_801C30D0
+
+dlabel func_801C30D0
+    /* 1C3CD0 801C30D0 016E3334 */ .word 0x016E3334
+    /* 1C3CD4 801C30D4 000E6666 */ .word 0x000E6666 /* invalid instruction */
+    /* 1C3CD8 801C30D8 00000000 */ .word 0x00000000
+    /* 1C3CDC 801C30DC 00010310 */ .word 0x00010310 /* invalid instruction */
+    /* 1C3CE0 801C30E0 FDF39998 */ .word 0xFDF39998
+    /* 1C3CE4 801C30E4 0022CCCC */ .word 0x0022CCCC /* invalid instruction */
+    /* 1C3CE8 801C30E8 FFED999A */ .word 0xFFED999A
+    /* 1C3CEC 801C30EC 00000000 */ .word 0x00000000
+    /* 1C3CF0 801C30F0 000F0310 */ .word 0x000F0310 /* invalid instruction */
+    /* 1C3CF4 801C30F4 02150000 */ .word 0x02150000 /* invalid instruction */
+    /* 1C3CF8 801C30F8 0022CCCC */ .word 0x0022CCCC /* invalid instruction */
+    /* 1C3CFC 801C30FC 0012CCCC */ .word 0x0012CCCC /* invalid instruction */
+    /* 1C3D00 801C3100 00000000 */ .word 0x00000000
+    /* 1C3D04 801C3104 000B0B02 */ .word 0x000B0B02
+    /* 1C3D08 801C3108 00493333 */ .word 0x00493333
+    /* 1C3D0C 801C310C FFFB3334 */ .word 0xFFFB3334
+    /* 1C3D10 801C3110 FD52CCCC */ .word 0xFD52CCCC
+    /* 1C3D14 801C3114 00000000 */ .word 0x00000000
+    /* 1C3D18 801C3118 00120400 */ .word 0x00120400
+    /* 1C3D1C 801C311C 01D93334 */ .word 0x01D93334
+    /* 1C3D20 801C3120 016ACCCE */ .word 0x016ACCCE /* invalid instruction */
+    /* 1C3D24 801C3124 FD9A6664 */ .word 0xFD9A6664
+    /* 1C3D28 801C3128 00000000 */ .word 0x00000000
+    /* 1C3D2C 801C312C 00040400 */ .word 0x00040400
+    /* 1C3D30 801C3130 FEC16666 */ .word 0xFEC16666
+    /* 1C3D34 801C3134 016ACCCE */ .word 0x016ACCCE /* invalid instruction */
+    /* 1C3D38 801C3138 FD0C9998 */ .word 0xFD0C9998
+    /* 1C3D3C 801C313C 00000000 */ .word 0x00000000
+    /* 1C3D40 801C3140 00110310 */ .word 0x00110310 /* invalid instruction */
+    /* 1C3D44 801C3144 02563334 */ .word 0x02563334
+    /* 1C3D48 801C3148 001F6666 */ .word 0x001F6666 /* invalid instruction */
+    /* 1C3D4C 801C314C FDB0CCCC */ .word 0xFDB0CCCC
+    /* 1C3D50 801C3150 00000000 */ .word 0x00000000
+    /* 1C3D54 801C3154 00030310 */ .word 0x00030310 /* invalid instruction */
+enddlabel func_801C30D0

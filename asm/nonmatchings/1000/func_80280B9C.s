@@ -1,0 +1,10 @@
+nonmatching func_80280B9C
+
+dlabel func_80280B9C
+    /* 28179C 80280B9C 03060000 */ .word 0x03060000 /* invalid instruction */
+    /* 2817A0 80280BA0 08080008 */ .word 0x08080008
+    /* 2817A4 80280BA4 00000000 */ .word 0x00000000
+    /* 2817A8 80280BA8 FC98FF52 */ .word 0xFC98FF52
+    /* 2817AC 80280BAC FDCDFEBD */ .word 0xFDCDFEBD
+    /* 2817B0 80280BB0 FFE6F974 */ .word 0xFFE6F974
+enddlabel func_80280B9C

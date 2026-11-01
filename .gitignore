@@ -1,0 +1,12 @@
+# ROMs and extracted binary assets (NEVER commit these)
+*.z64
+*.n64
+*.v64
+assets/
+
+# Build artifacts and toolchains
+build/
+*.o
+*.elf
+ido5.3/
+tools/

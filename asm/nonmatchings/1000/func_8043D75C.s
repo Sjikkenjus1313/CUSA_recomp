@@ -1,0 +1,37 @@
+nonmatching func_8043D75C
+
+dlabel func_8043D75C
+    /* 43E35C 8043D75C 06050304 */ .word 0x06050304 /* invalid instruction */
+    /* 43E360 8043D760 07030407 */ .word 0x07030407
+    /* 43E364 8043D764 07080307 */ .word 0x07080307
+    /* 43E368 8043D768 08030709 */ .word 0x08030709
+    /* 43E36C 8043D76C 08070908 */ .word 0x08070908
+    /* 43E370 8043D770 06030806 */ .word 0x06030806
+    /* 43E374 8043D774 0308080A */ .word 0x0308080A
+    /* 43E378 8043D778 06080A06 */ .word 0x06080A06
+    /* 43E37C 8043D77C 06060006 */ .word 0x06060006 /* invalid instruction */
+    /* 43E380 8043D780 00000000 */ .word 0x00000000
+    /* 43E384 8043D784 FBF0FE7F */ .word 0xFBF0FE7F
+    /* 43E388 8043D788 FDF6F99F */ .word 0xFDF6F99F
+    /* 43E38C 8043D78C FE43FF11 */ .word 0xFE43FF11
+    /* 43E390 8043D790 FB25FE43 */ .word 0xFB25FE43
+    /* 43E394 8043D794 0242FEEA */ .word 0x0242FEEA /* invalid instruction */
+    /* 43E398 8043D798 FE82045A */ .word 0xFE82045A
+    /* 43E39C 8043D79C FC93FE46 */ .word 0xFC93FE46
+    /* 43E3A0 8043D7A0 056902B8 */ .word 0x056902B8
+    /* 43E3A4 8043D7A4 0271FAB8 */ .word 0x0271FAB8 /* invalid instruction */
+    /* 43E3A8 8043D7A8 05C10274 */ .word 0x05C10274
+    /* 43E3AC 8043D7AC 01410025 */ .word 0x01410025
+    /* 43E3B0 8043D7B0 059A0034 */ .word 0x059A0034 /* invalid instruction */
+    /* 43E3B4 8043D7B4 0800040B */ .word 0x0800040B
+    /* 43E3B8 8043D7B8 080007CF */ .word 0x080007CF
+    /* 43E3BC 8043D7BC 059A07CF */ .word 0x059A07CF /* invalid instruction */
+    /* 43E3C0 8043D7C0 0800FFFA */ .word 0x0800FFFA
+    /* 43E3C4 8043D7C4 033307CF */ .word 0x033307CF /* invalid instruction */
+    /* 43E3C8 8043D7C8 03330518 */ .word 0x03330518 /* invalid instruction */
+    /* 43E3CC 8043D7CC 000024CB */ .word 0x000024CB /* invalid instruction */
+    /* 43E3D0 8043D7D0 00010200 */ .word 0x00010200
+    /* 43E3D4 8043D7D4 01020203 */ .word 0x01020203 /* invalid instruction */
+    /* 43E3D8 8043D7D8 00020300 */ .word 0x00020300
+    /* 43E3DC 8043D7DC 02040302 */ .word 0x02040302 /* invalid instruction */
+enddlabel func_8043D75C

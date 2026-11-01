@@ -1,0 +1,10 @@
+nonmatching func_8033B428
+
+dlabel func_8033B428
+    /* 33C028 8033B428 07D0FFF8 */ .word 0x07D0FFF8
+    /* 33C02C 8033B42C FFF1FFF8 */ .word 0xFFF1FFF8
+    /* 33C030 8033B430 00100077 */ .word 0x00100077 /* invalid instruction */
+    /* 33C034 8033B434 07F00077 */ .word 0x07F00077
+    /* 33C038 8033B438 07F0FFF8 */ .word 0x07F0FFF8
+    /* 33C03C 8033B43C 0010FFF8 */ .word 0x0010FFF8
+enddlabel func_8033B428

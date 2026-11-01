@@ -1,0 +1,10 @@
+nonmatching func_8009D60C
+
+dlabel func_8009D60C
+    /* 9E20C 8009D60C E769D7A9 */ .word 0xE769D7A9
+    /* 9E210 8009D610 F7ABC6FB */ .word 0xF7ABC6FB
+    /* 9E214 8009D614 F76FF7B3 */ .word 0xF76FF7B3
+    /* 9E218 8009D618 F7EFF081 */ .word 0xF7EFF081
+    /* 9E21C 8009D61C 00000007 */ .word 0x00000007
+    /* 9E220 8009D620 00430083 */ .word 0x00430083 /* invalid instruction */
+enddlabel func_8009D60C

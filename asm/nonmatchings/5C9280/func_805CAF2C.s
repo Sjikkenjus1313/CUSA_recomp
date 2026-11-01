@@ -1,0 +1,69 @@
+nonmatching func_805CAF2C
+
+dlabel func_805CAF2C
+    /* 5CBB2C 805CAF2C FFD0FFE9 */ .word 0xFFD0FFE9
+    /* 5CBB30 805CAF30 FFF6FFFB */ .word 0xFFF6FFFB
+    /* 5CBB34 805CAF34 FFFEFFFF */ .word 0xFFFEFFFF
+    /* 5CBB38 805CAF38 04F9027C */ .word 0x04F9027C /* invalid instruction */
+    /* 5CBB3C 805CAF3C 012B0089 */ .word 0x012B0089 /* invalid instruction */
+    /* 5CBB40 805CAF40 003F001D */ .word 0x003F001D
+    /* 5CBB44 805CAF44 000D0006 */ .word 0x000D0006
+    /* 5CBB48 805CAF48 014200FF */ .word 0x014200FF /* invalid instruction */
+    /* 5CBB4C 805CAF4C 00FC00EF */ .word 0x00FC00EF /* invalid instruction */
+    /* 5CBB50 805CAF50 00E400DA */ .word 0x00E400DA /* invalid instruction */
+    /* 5CBB54 805CAF54 00D000C7 */ .word 0x00D000C7 /* invalid instruction */
+    /* 5CBB58 805CAF58 06520640 */ .word 0x06520640
+    /* 5CBB5C 805CAF5C 05EF05AC */ .word 0x05EF05AC /* invalid instruction */
+    /* 5CBB60 805CAF60 056A052B */ .word 0x056A052B
+    /* 5CBB64 805CAF64 04EF04B6 */ .word 0x04EF04B6 /* invalid instruction */
+    /* 5CBB68 805CAF68 00000002 */ .word 0x00000002
+    /* 5CBB6C 805CAF6C 00000008 */ .word 0x00000008
+    /* 5CBB70 805CAF70 011AFFBC */ .word 0x011AFFBC /* invalid instruction */
+    /* 5CBB74 805CAF74 0037FFE9 */ .word 0x0037FFE9 /* invalid instruction */
+    /* 5CBB78 805CAF78 000DFFFA */ .word 0x000DFFFA
+    /* 5CBB7C 805CAF7C 0003FFFE */ .word 0x0003FFFE
+    /* 5CBB80 805CAF80 FE130191 */ .word 0xFE130191
+    /* 5CBB84 805CAF84 FF5C005F */ .word 0xFF5C005F
+    /* 5CBB88 805CAF88 FFD30018 */ .word 0xFFD30018
+    /* 5CBB8C 805CAF8C FFF40006 */ .word 0xFFF40006
+    /* 5CBB90 805CAF90 FD89FE2C */ .word 0xFD89FE2C
+    /* 5CBB94 805CAF94 FF68001F */ .word 0xFF68001F
+    /* 5CBB98 805CAF98 0046002A */ .word 0x0046002A
+    /* 5CBB9C 805CAF9C 000AFFFA */ .word 0x000AFFFA
+    /* 5CBBA0 805CAFA0 05EE01EE */ .word 0x05EE01EE
+    /* 5CBBA4 805CAFA4 FF9AFF1C */ .word 0xFF9AFF1C
+    /* 5CBBA8 805CAFA8 FF76FFE0 */ .word 0xFF76FFE0
+    /* 5CBBAC 805CAFAC 00130018 */ .word 0x00130018
+    /* 5CBBB0 805CAFB0 02D100A6 */ .word 0x02D100A6 /* invalid instruction */
+    /* 5CBBB4 805CAFB4 0124007E */ .word 0x0124007E /* invalid instruction */
+    /* 5CBBB8 805CAFB8 0084004B */ .word 0x0084004B /* invalid instruction */
+    /* 5CBBBC 805CAFBC 00400029 */ .word 0x00400029 /* invalid instruction */
+    /* 5CBBC0 805CAFC0 01D8033D */ .word 0x01D8033D /* invalid instruction */
+    /* 5CBBC4 805CAFC4 01650176 */ .word 0x01650176
+    /* 5CBBC8 805CAFC8 00D400B4 */ .word 0x00D400B4
+    /* 5CBBCC 805CAFCC 0074005A */ .word 0x0074005A /* invalid instruction */
+    /* 5CBBD0 805CAFD0 FE12FDDA */ .word 0xFE12FDDA
+    /* 5CBBD4 805CAFD4 FE13FE60 */ .word 0xFE13FE60
+    /* 5CBBD8 805CAFD8 FEA8FEE6 */ .word 0xFEA8FEE6
+    /* 5CBBDC 805CAFDC FF19FF43 */ .word 0xFF19FF43
+    /* 5CBBE0 805CAFE0 08E707FB */ .word 0x08E707FB
+    /* 5CBBE4 805CAFE4 06BC0592 */ .word 0x06BC0592 /* invalid instruction */
+    /* 5CBBE8 805CAFE8 049303BF */ .word 0x049303BF
+    /* 5CBBEC 805CAFEC 03110283 */ .word 0x03110283 /* invalid instruction */
+    /* 5CBBF0 805CAFF0 FFE7FFFD */ .word 0xFFE7FFFD
+    /* 5CBBF4 805CAFF4 00000000 */ .word 0x00000000
+    /* 5CBBF8 805CAFF8 00000000 */ .word 0x00000000
+    /* 5CBBFC 805CAFFC 00000000 */ .word 0x00000000
+    /* 5CBC00 805CB000 00CBFFFB */ .word 0x00CBFFFB /* invalid instruction */
+    /* 5CBC04 805CB004 FFFD0000 */ .word 0xFFFD0000
+    /* 5CBC08 805CB008 00000000 */ .word 0x00000000
+    /* 5CBC0C 805CB00C 00000000 */ .word 0x00000000
+    /* 5CBC10 805CB010 FE74FE90 */ .word 0xFE74FE90
+    /* 5CBC14 805CB014 FEF6FF51 */ .word 0xFEF6FF51
+    /* 5CBC18 805CB018 FF90FFBA */ .word 0xFF90FFBA
+    /* 5CBC1C 805CB01C FFD5FFE5 */ .word 0xFFD5FFE5
+    /* 5CBC20 805CB020 076F055C */ .word 0x076F055C /* invalid instruction */
+    /* 5CBC24 805CB024 038B0241 */ .word 0x038B0241 /* invalid instruction */
+    /* 5CBC28 805CB028 016900E0 */ .word 0x016900E0 /* invalid instruction */
+    /* 5CBC2C 805CB02C 008A0055 */ .word 0x008A0055 /* invalid instruction */
+enddlabel func_805CAF2C

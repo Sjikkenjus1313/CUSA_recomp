@@ -1,0 +1,59 @@
+/* Handwritten function */
+nonmatching func_8012CEA8, 0x38
+
+glabel func_8012CEA8
+    /* 12DAA8 8012CEA8 00000000 */  nop
+    /* 12DAAC 8012CEAC 00000000 */  nop
+    /* 12DAB0 8012CEB0 00000000 */  nop
+    /* 12DAB4 8012CEB4 00000000 */  nop
+    /* 12DAB8 8012CEB8 C44E0E05 */  lwc1       $f14, 0xE05($v0)
+    /* 12DABC 8012CEBC 0E92B7AD */  jal        func_8A4ADEB4
+    /* 12DAC0 8012CEC0 D3FE0000 */   lld       $fp, 0x0($ra) /* handwritten instruction */
+    /* 12DAC4 8012CEC4 00000000 */  nop
+    /* 12DAC8 8012CEC8 00000000 */  nop
+    /* 12DACC 8012CECC 00000000 */  nop
+    /* 12DAD0 8012CED0 00000000 */  nop
+    /* 12DAD4 8012CED4 00000000 */  nop
+    /* 12DAD8 8012CED8 FEA3398C */  sd         $v1, 0x398C($s5)
+    /* 12DADC 8012CEDC E0E1D6F8 */  sc         $at, -0x2908($a3) /* handwritten instruction */
+endlabel func_8012CEA8
+    /* 12DAE0 8012CEE0 00000000 */  nop
+    /* 12DAE4 8012CEE4 00000000 */  nop
+    /* 12DAE8 8012CEE8 00000000 */  nop
+    /* 12DAEC 8012CEEC 00000000 */  nop
+    /* 12DAF0 8012CEF0 00000000 */  nop
+    /* 12DAF4 8012CEF4 00000000 */  nop
+    /* 12DAF8 8012CEF8 00000000 */  nop
+    /* 12DAFC 8012CEFC 00000000 */  nop
+    /* 12DB00 8012CF00 00000000 */  nop
+    /* 12DB04 8012CF04 00000000 */  nop
+    /* 12DB08 8012CF08 00000000 */  nop
+    /* 12DB0C 8012CF0C 00000000 */  nop
+    /* 12DB10 8012CF10 00000000 */  nop
+    /* 12DB14 8012CF14 00000000 */  nop
+    /* 12DB18 8012CF18 00000000 */  nop
+    /* 12DB1C 8012CF1C 00000000 */  nop
+    /* 12DB20 8012CF20 00000000 */  nop
+    /* 12DB24 8012CF24 00000000 */  nop
+    /* 12DB28 8012CF28 00000000 */  nop
+    /* 12DB2C 8012CF2C 00000000 */  nop
+    /* 12DB30 8012CF30 00000000 */  nop
+    /* 12DB34 8012CF34 00000000 */  nop
+    /* 12DB38 8012CF38 00000000 */  nop
+    /* 12DB3C 8012CF3C 00000000 */  nop
+    /* 12DB40 8012CF40 00000000 */  nop
+    /* 12DB44 8012CF44 00000000 */  nop
+    /* 12DB48 8012CF48 00000000 */  nop
+    /* 12DB4C 8012CF4C 00000000 */  nop
+    /* 12DB50 8012CF50 00000000 */  nop
+    /* 12DB54 8012CF54 00000000 */  nop
+    /* 12DB58 8012CF58 00000000 */  nop
+    /* 12DB5C 8012CF5C 00000000 */  nop
+    /* 12DB60 8012CF60 00000000 */  nop
+    /* 12DB64 8012CF64 00000000 */  nop
+    /* 12DB68 8012CF68 00000000 */  nop
+    /* 12DB6C 8012CF6C 00000000 */  nop
+    /* 12DB70 8012CF70 00000000 */  nop
+    /* 12DB74 8012CF74 00000000 */  nop
+    /* 12DB78 8012CF78 00000000 */  nop
+    /* 12DB7C 8012CF7C 00000000 */  nop

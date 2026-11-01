@@ -1,0 +1,42 @@
+nonmatching func_8073DC50
+
+dlabel func_8073DC50
+    /* 73E850 8073DC50 00007F40 */ .word 0x00007F40
+    /* 73E854 8073DC54 000000C0 */ .word 0x000000C0
+    /* 73E858 8073DC58 00960001 */ .word 0x00960001 /* invalid instruction */
+    /* 73E85C 8073DC5C 00000124 */ .word 0x00000124 /* invalid instruction */
+    /* 73E860 8073DC60 00000096 */ .word 0x00000096 /* invalid instruction */
+    /* 73E864 8073DC64 00070500 */ .word 0x00070500
+    /* 73E868 8073DC68 000C7F85 */ .word 0x000C7F85 /* invalid instruction */
+    /* 73E86C 8073DC6C 20114352 */ .word 0x20114352
+    /* 73E870 8073DC70 6D124385 */ .word 0x6D124385
+    /* 73E874 8073DC74 1311434F */ .word 0x1311434F
+    /* 73E878 8073DC78 68124385 */ .word 0x68124385
+    /* 73E87C 8073DC7C 1811434B */ .word 0x1811434B /* invalid instruction */
+    /* 73E880 8073DC80 81001243 */ .word 0x81001243
+    /* 73E884 8073DC84 85001143 */ .word 0x85001143
+    /* 73E888 8073DC88 486E1243 */ .word 0x486E1243 /* invalid instruction */
+    /* 73E88C 8073DC8C 52114338 */ .word 0x52114338
+    /* 73E890 8073DC90 61124383 */ .word 0x61124383
+    /* 73E894 8073DC94 5F114344 */ .word 0x5F114344 /* invalid instruction */
+    /* 73E898 8073DC98 64124385 */ .word 0x64124385
+    /* 73E89C 8073DC9C 1C114344 */ .word 0x1C114344 /* invalid instruction */
+    /* 73E8A0 8073DCA0 67124385 */ .word 0x67124385
+    /* 73E8A4 8073DCA4 19114344 */ .word 0x19114344 /* invalid instruction */
+    /* 73E8A8 8073DCA8 6B124385 */ .word 0x6B124385
+    /* 73E8AC 8073DCAC 15114341 */ .word 0x15114341
+    /* 73E8B0 8073DCB0 60124360 */ .word 0x60124360
+    /* 73E8B4 8073DCB4 11433C59 */ .word 0x11433C59
+    /* 73E8B8 8073DCB8 12438367 */ .word 0x12438367
+    /* 73E8BC 8073DCBC 1143396C */ .word 0x1143396C
+    /* 73E8C0 8073DCC0 12438514 */ .word 0x12438514
+    /* 73E8C4 8073DCC4 11434460 */ .word 0x11434460
+    /* 73E8C8 8073DCC8 12438520 */ .word 0x12438520
+    /* 73E8CC 8073DCCC 11433F6E */ .word 0x11433F6E
+    /* 73E8D0 8073DCD0 12438512 */ .word 0x12438512
+    /* 73E8D4 8073DCD4 1143486C */ .word 0x1143486C
+    /* 73E8D8 8073DCD8 12435411 */ .word 0x12435411
+    /* 73E8DC 8073DCDC 43485F12 */ .word 0x43485F12 /* invalid instruction */
+    /* 73E8E0 8073DCE0 43836111 */ .word 0x43836111 /* invalid instruction */
+    /* 73E8E4 8073DCE4 433F5D12 */ .word 0x433F5D12 /* invalid instruction */
+enddlabel func_8073DC50

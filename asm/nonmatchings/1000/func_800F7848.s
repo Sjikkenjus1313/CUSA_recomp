@@ -1,0 +1,27 @@
+nonmatching func_800F7848
+
+dlabel func_800F7848
+    /* F8448 800F7848 00000000 */ .word 0x00000000
+    /* F844C 800F784C FFF70013 */ .word 0xFFF70013
+    /* F8450 800F7850 FFEDFFF7 */ .word 0xFFEDFFF7
+    /* F8454 800F7854 FFEDFFED */ .word 0xFFEDFFED
+    /* F8458 800F7858 FFF7FFED */ .word 0xFFF7FFED
+    /* F845C 800F785C 0013FFF7 */ .word 0x0013FFF7 /* invalid instruction */
+    /* F8460 800F7860 00130013 */ .word 0x00130013 /* invalid instruction */
+    /* F8464 800F7864 0009FFED */ .word 0x0009FFED /* invalid instruction */
+    /* F8468 800F7868 00130009 */ .word 0x00130009 /* invalid instruction */
+    /* F846C 800F786C FFEDFFED */ .word 0xFFEDFFED
+    /* F8470 800F7870 00090013 */ .word 0x00090013 /* invalid instruction */
+    /* F8474 800F7874 FFED0009 */ .word 0xFFED0009
+    /* F8478 800F7878 00130013 */ .word 0x00130013 /* invalid instruction */
+    /* F847C 800F787C FFF70008 */ .word 0xFFF70008
+    /* F8480 800F7880 FFEE0009 */ .word 0xFFEE0009
+    /* F8484 800F7884 FFF8FFEE */ .word 0xFFF8FFEE
+    /* F8488 800F7888 FFF7FFF8 */ .word 0xFFF7FFF8
+    /* F848C 800F788C FFEE0009 */ .word 0xFFEE0009
+    /* F8490 800F7890 0008FFEE */ .word 0x0008FFEE /* invalid instruction */
+    /* F8494 800F7894 FFF70012 */ .word 0xFFF70012
+    /* F8498 800F7898 FFF80009 */ .word 0xFFF80009
+    /* F849C 800F789C 0012FFF8 */ .word 0x0012FFF8
+    /* F84A0 800F78A0 FFF70012 */ .word 0xFFF70012
+enddlabel func_800F7848

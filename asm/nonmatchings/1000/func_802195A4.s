@@ -1,0 +1,36 @@
+nonmatching func_802195A4
+
+dlabel func_802195A4
+    /* 21A1A4 802195A4 018EF5CD */ .word 0x018EF5CD
+    /* 21A1A8 802195A8 FFEBFF98 */ .word 0xFFEBFF98
+    /* 21A1AC 802195AC F5DEF9C9 */ .word 0xF5DEF9C9
+    /* 21A1B0 802195B0 FF980372 */ .word 0xFF980372
+    /* 21A1B4 802195B4 F9C5FF8E */ .word 0xF9C5FF8E
+    /* 21A1B8 802195B8 000AF9BE */ .word 0x000AF9BE
+    /* 21A1BC 802195BC FF85FCB5 */ .word 0xFF85FCB5
+    /* 21A1C0 802195C0 F9B8FF8E */ .word 0xF9B8FF8E
+    /* 21A1C4 802195C4 F94EF9B3 */ .word 0xF94EF9B3
+    /* 21A1C8 802195C8 FF98F5E6 */ .word 0xFF98F5E6
+    /* 21A1CC 802195CC 0A63017B */ .word 0x0A63017B
+    /* 21A1D0 802195D0 FC890000 */ .word 0xFC890000
+    /* 21A1D4 802195D4 00CD0800 */ .word 0x00CD0800 /* invalid instruction */
+    /* 21A1D8 802195D8 06001000 */ .word 0x06001000
+    /* 21A1DC 802195DC 00CD2000 */ .word 0x00CD2000 /* invalid instruction */
+    /* 21A1E0 802195E0 08002000 */ .word 0x08002000
+    /* 21A1E4 802195E4 00CD0000 */ .word 0x00CD0000 /* invalid instruction */
+    /* 21A1E8 802195E8 00000000 */ .word 0x00000000
+    /* 21A1EC 802195EC 08000800 */ .word 0x08000800
+    /* 21A1F0 802195F0 00001000 */ .word 0x00001000
+    /* 21A1F4 802195F4 08001000 */ .word 0x08001000
+    /* 21A1F8 802195F8 00001800 */ .word 0x00001800
+    /* 21A1FC 802195FC 00002000 */ .word 0x00002000
+    /* 21A200 80219600 00000A22 */ .word 0x00000A22 /* invalid instruction */
+    /* 21A204 80219604 00000CDA */ .word 0x00000CDA /* invalid instruction */
+    /* 21A208 80219608 00010200 */ .word 0x00010200
+    /* 21A20C 8021960C 01020103 */ .word 0x01020103 /* invalid instruction */
+    /* 21A210 80219610 02010302 */ .word 0x02010302 /* invalid instruction */
+    /* 21A214 80219614 02030402 */ .word 0x02030402 /* invalid instruction */
+    /* 21A218 80219618 03040500 */ .word 0x03040500 /* invalid instruction */
+    /* 21A21C 8021961C 06050607 */ .word 0x06050607 /* invalid instruction */
+    /* 21A220 80219620 00020606 */ .word 0x00020606 /* invalid instruction */
+enddlabel func_802195A4

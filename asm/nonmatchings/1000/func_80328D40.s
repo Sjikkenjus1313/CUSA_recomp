@@ -1,0 +1,12 @@
+nonmatching func_80328D40
+
+dlabel func_80328D40
+    /* 329940 80328D40 0000F8F6 */ .word 0x0000F8F6
+    /* 329944 80328D44 04800000 */ .word 0x04800000
+    /* 329948 80328D48 03680900 */ .word 0x03680900 /* invalid instruction */
+    /* 32994C 80328D4C 00000368 */ .word 0x00000368 /* invalid instruction */
+    /* 329950 80328D50 08FF0000 */ .word 0x08FF0000
+    /* 329954 80328D54 001A047F */ .word 0x001A047F
+    /* 329958 80328D58 0000000D */ .word 0x0000000D
+    /* 32995C 80328D5C 04930000 */ .word 0x04930000
+enddlabel func_80328D40

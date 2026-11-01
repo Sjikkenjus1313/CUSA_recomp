@@ -1,0 +1,14 @@
+nonmatching func_80026598, 0x28
+
+glabel func_80026598
+    /* 27198 80026598 24060001 */  addiu      $a2, $zero, 0x1
+    /* 2719C 8002659C 3C048016 */  lui        $a0, %hi(D_801654A8)
+    /* 271A0 800265A0 248454A8 */  addiu      $a0, $a0, %lo(D_801654A8)
+    /* 271A4 800265A4 00002825 */  or         $a1, $zero, $zero
+    /* 271A8 800265A8 0C048A7C */  jal        func_801229F0
+    /* 271AC 800265AC 00003025 */   or        $a2, $zero, $zero
+    /* 271B0 800265B0 8FBF0014 */  lw         $ra, 0x14($sp)
+    /* 271B4 800265B4 27BD0018 */  addiu      $sp, $sp, 0x18
+    /* 271B8 800265B8 03E00008 */  jr         $ra
+    /* 271BC 800265BC 00000000 */   nop
+endlabel func_80026598

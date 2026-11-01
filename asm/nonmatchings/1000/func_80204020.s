@@ -1,0 +1,65 @@
+nonmatching func_80204020
+
+dlabel func_80204020
+    /* 204C20 80204020 20232023 */ .word 0x20232023
+    /* 204C24 80204024 201F1819 */ .word 0x201F1819
+    /* 204C28 80204028 18171722 */ .word 0x18171722 /* invalid instruction */
+    /* 204C2C 8020402C 1F1C1919 */ .word 0x1F1C1919 /* invalid instruction */
+    /* 204C30 80204030 19181815 */ .word 0x19181815 /* invalid instruction */
+    /* 204C34 80204034 20192020 */ .word 0x20192020
+    /* 204C38 80204038 20202020 */ .word 0x20202020
+    /* 204C3C 8020403C 23192019 */ .word 0x23192019
+    /* 204C40 80204040 19181923 */ .word 0x19181923 /* invalid instruction */
+    /* 204C44 80204044 19152317 */ .word 0x19152317 /* invalid instruction */
+    /* 204C48 80204048 14151F19 */ .word 0x14151F19
+    /* 204C4C 8020404C 18182324 */ .word 0x18182324 /* invalid instruction */
+    /* 204C50 80204050 23232423 */ .word 0x23232423
+    /* 204C54 80204054 231F1F20 */ .word 0x231F1F20
+    /* 204C58 80204058 19192120 */ .word 0x19192120 /* invalid instruction */
+    /* 204C5C 8020405C 20191F1F */ .word 0x20191F1F
+    /* 204C60 80204060 18181919 */ .word 0x18181919 /* invalid instruction */
+    /* 204C64 80204064 20192419 */ .word 0x20192419
+    /* 204C68 80204068 20241919 */ .word 0x20241919
+    /* 204C6C 8020406C 20181818 */ .word 0x20181818
+    /* 204C70 80204070 19212119 */ .word 0x19212119 /* invalid instruction */
+    /* 204C74 80204074 19200E06 */ .word 0x19200E06
+    /* 204C78 80204078 190E1918 */ .word 0x190E1918 /* invalid instruction */
+    /* 204C7C 8020407C 20191920 */ .word 0x20191920
+    /* 204C80 80204080 18192021 */ .word 0x18192021 /* invalid instruction */
+    /* 204C84 80204084 20191919 */ .word 0x20191919
+    /* 204C88 80204088 1A211819 */ .word 0x1A211819 /* invalid instruction */
+    /* 204C8C 8020408C 2020191F */ .word 0x2020191F
+    /* 204C90 80204090 201F2323 */ .word 0x201F2323
+    /* 204C94 80204094 23232024 */ .word 0x23232024
+    /* 204C98 80204098 19202019 */ .word 0x19202019
+    /* 204C9C 8020409C 19182018 */ .word 0x19182018 /* invalid instruction */
+    /* 204CA0 802040A0 20192022 */ .word 0x20192022
+    /* 204CA4 802040A4 1F191920 */ .word 0x1F191920 /* invalid instruction */
+    /* 204CA8 802040A8 19232019 */ .word 0x19232019 /* invalid instruction */
+    /* 204CAC 802040AC 21182323 */ .word 0x21182323
+    /* 204CB0 802040B0 20202020 */ .word 0x20202020
+    /* 204CB4 802040B4 201F1818 */ .word 0x201F1818
+    /* 204CB8 802040B8 1C182018 */ .word 0x1C182018 /* invalid instruction */
+    /* 204CBC 802040BC 1819181C */ .word 0x1819181C /* invalid instruction */
+    /* 204CC0 802040C0 191C1F23 */ .word 0x191C1F23 /* invalid instruction */
+    /* 204CC4 802040C4 23182023 */ .word 0x23182023
+    /* 204CC8 802040C8 201C1C23 */ .word 0x201C1C23
+    /* 204CCC 802040CC 201F1F1F */ .word 0x201F1F1F
+    /* 204CD0 802040D0 19231919 */ .word 0x19231919 /* invalid instruction */
+    /* 204CD4 802040D4 1923180D */ .word 0x1923180D /* invalid instruction */
+    /* 204CD8 802040D8 20191923 */ .word 0x20191923
+    /* 204CDC 802040DC 23152023 */ .word 0x23152023
+    /* 204CE0 802040E0 23202020 */ .word 0x23202020
+    /* 204CE4 802040E4 20182018 */ .word 0x20182018
+    /* 204CE8 802040E8 241C181B */ .word 0x241C181B
+    /* 204CEC 802040EC 1918232C */ .word 0x1918232C /* invalid instruction */
+    /* 204CF0 802040F0 1123231C */ .word 0x1123231C
+    /* 204CF4 802040F4 20231F1F */ .word 0x20231F1F
+    /* 204CF8 802040F8 20182018 */ .word 0x20182018
+    /* 204CFC 802040FC 24181920 */ .word 0x24181920
+    /* 204D00 80204100 20182023 */ .word 0x20182023
+    /* 204D04 80204104 23231522 */ .word 0x23231522
+    /* 204D08 80204108 2019201F */ .word 0x2019201F
+    /* 204D0C 8020410C 18182018 */ .word 0x18182018 /* invalid instruction */
+    /* 204D10 80204110 20192318 */ .word 0x20192318
+enddlabel func_80204020

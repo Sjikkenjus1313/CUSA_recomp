@@ -1,0 +1,11 @@
+nonmatching func_800C1814
+
+dlabel func_800C1814
+    /* C2414 800C1814 93426852 */ .word 0x93426852
+    /* C2418 800C1818 68988231 */ .word 0x68988231
+    /* C241C 800C181C 41CCCC15 */ .word 0x41CCCC15 /* invalid instruction */
+    /* C2420 800C1820 3181A5A6 */ .word 0x3181A5A6
+    /* C2424 800C1824 92A28252 */ .word 0x92A28252
+    /* C2428 800C1828 310BA1AF */ .word 0x310BA1AF
+    /* C242C 800C182C B0536898 */ .word 0xB0536898
+enddlabel func_800C1814

@@ -1,0 +1,69 @@
+nonmatching func_803EB868
+
+dlabel func_803EB868
+    /* 3EC468 803EB868 021C1E13 */ .word 0x021C1E13 /* invalid instruction */
+    /* 3EC46C 803EB86C 1415021E */ .word 0x1415021E
+    /* 3EC470 803EB870 04131516 */ .word 0x04131516
+    /* 3EC474 803EB874 0A1F1D16 */ .word 0x0A1F1D16
+    /* 3EC478 803EB878 15140A1D */ .word 0x15140A1D
+    /* 3EC47C 803EB87C 0C161413 */ .word 0x0C161413
+    /* 3EC480 803EB880 00002085 */ .word 0x00002085 /* invalid instruction */
+    /* 3EC484 803EB884 0600041E */ .word 0x0600041E
+    /* 3EC488 803EB888 20171806 */ .word 0x20171806
+    /* 3EC48C 803EB88C 04200617 */ .word 0x04200617
+    /* 3EC490 803EB890 060D0620 */ .word 0x060D0620 /* invalid instruction */
+    /* 3EC494 803EB894 210D191A */ .word 0x210D191A
+    /* 3EC498 803EB898 0621080D */ .word 0x0621080D
+    /* 3EC49C 803EB89C 1A060821 */ .word 0x1A060821 /* invalid instruction */
+    /* 3EC4A0 803EB8A0 1F0D0618 */ .word 0x1F0D0618 /* invalid instruction */
+    /* 3EC4A4 803EB8A4 081F0A0D */ .word 0x081F0A0D
+    /* 3EC4A8 803EB8A8 18170000 */ .word 0x18170000 /* invalid instruction */
+    /* 3EC4AC 803EB8AC 0B080010 */ .word 0x0B080010
+    /* 3EC4B0 803EB8B0 00000000 */ .word 0x00000000
+    /* 3EC4B4 803EB8B4 F69E001E */ .word 0xF69E001E
+    /* 3EC4B8 803EB8B8 FDDFFA5F */ .word 0xFDDFFA5F
+    /* 3EC4BC 803EB8BC 001E005A */ .word 0x001E005A /* invalid instruction */
+    /* 3EC4C0 803EB8C0 FC4A000F */ .word 0xFC4A000F
+    /* 3EC4C4 803EB8C4 FD78F892 */ .word 0xFD78F892
+    /* 3EC4C8 803EB8C8 000FFAEE */ .word 0x000FFAEE /* invalid instruction */
+    /* 3EC4CC 803EB8CC 01DE001E */ .word 0x01DE001E
+    /* 3EC4D0 803EB8D0 0553059F */ .word 0x0553059F
+    /* 3EC4D4 803EB8D4 001E07CF */ .word 0x001E07CF /* invalid instruction */
+    /* 3EC4D8 803EB8D8 076E000F */ .word 0x076E000F
+    /* 3EC4DC 803EB8DC 051203B6 */ .word 0x051203B6
+    /* 3EC4E0 803EB8E0 000F0288 */ .word 0x000F0288 /* invalid instruction */
+    /* 3EC4E4 803EB8E4 09470000 */ .word 0x09470000
+    /* 3EC4E8 803EB8E8 02730598 */ .word 0x02730598 /* invalid instruction */
+    /* 3EC4EC 803EB8EC 0000FFDC */ .word 0x0000FFDC /* invalid instruction */
+    /* 3EC4F0 803EB8F0 FE3D0000 */ .word 0xFE3D0000
+    /* 3EC4F4 803EB8F4 FAAFFA8E */ .word 0xFAAFFA8E
+    /* 3EC4F8 803EB8F8 0000F81A */ .word 0x0000F81A
+    /* 3EC4FC 803EB8FC 00000800 */ .word 0x00000800
+    /* 3EC500 803EB900 10000800 */ .word 0x10000800
+    /* 3EC504 803EB904 10000000 */ .word 0x10000000
+    /* 3EC508 803EB908 00000000 */ .word 0x00000000
+    /* 3EC50C 803EB90C 0E000900 */ .word 0x0E000900
+    /* 3EC510 803EB910 00000900 */ .word 0x00000900
+    /* 3EC514 803EB914 0E000000 */ .word 0x0E000000
+    /* 3EC518 803EB918 20000800 */ .word 0x20000800
+    /* 3EC51C 803EB91C 20000000 */ .word 0x20000000
+    /* 3EC520 803EB920 0000207F */ .word 0x0000207F
+    /* 3EC524 803EB924 04000001 */ .word 0x04000001
+    /* 3EC528 803EB928 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 3EC52C 803EB92C 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 3EC530 803EB930 03000405 */ .word 0x03000405 /* invalid instruction */
+    /* 3EC534 803EB934 06010003 */ .word 0x06010003
+    /* 3EC538 803EB938 06070403 */ .word 0x06070403 /* invalid instruction */
+    /* 3EC53C 803EB93C 02010400 */ .word 0x02010400 /* invalid instruction */
+    /* 3EC540 803EB940 00002080 */ .word 0x00002080
+    /* 3EC544 803EB944 07060804 */ .word 0x07060804 /* invalid instruction */
+    /* 3EC548 803EB948 05030809 */ .word 0x05030809
+    /* 3EC54C 803EB94C 07030604 */ .word 0x07030604
+    /* 3EC550 803EB950 03020A05 */ .word 0x03020A05 /* invalid instruction */
+    /* 3EC554 803EB954 04060A0B */ .word 0x04060A0B /* invalid instruction */
+    /* 3EC558 803EB958 03060305 */ .word 0x03060305 /* invalid instruction */
+    /* 3EC55C 803EB95C 0000207F */ .word 0x0000207F
+    /* 3EC560 803EB960 02180104 */ .word 0x02180104 /* invalid instruction */
+    /* 3EC564 803EB964 07000708 */ .word 0x07000708
+    /* 3EC568 803EB968 07020108 */ .word 0x07020108
+enddlabel func_803EB868

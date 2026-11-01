@@ -1,0 +1,40 @@
+nonmatching func_803FB6D8
+
+dlabel func_803FB6D8
+    /* 3FC2D8 803FB6D8 037C08EF */ .word 0x037C08EF /* invalid instruction */
+    /* 3FC2DC 803FB6DC 00000391 */ .word 0x00000391 /* invalid instruction */
+    /* 3FC2E0 803FB6E0 08FE0010 */ .word 0x08FE0010
+    /* 3FC2E4 803FB6E4 002B047E */ .word 0x002B047E /* invalid instruction */
+    /* 3FC2E8 803FB6E8 00100015 */ .word 0x00100015 /* invalid instruction */
+    /* 3FC2EC 803FB6EC 0490001E */ .word 0x0490001E
+    /* 3FC2F0 803FB6F0 FCC20910 */ .word 0xFCC20910
+    /* 3FC2F4 803FB6F4 001EFCD9 */ .word 0x001EFCD9 /* invalid instruction */
+    /* 3FC2F8 803FB6F8 0920002D */ .word 0x0920002D
+    /* 3FC2FC 803FB6FC F97304A0 */ .word 0xF97304A0
+    /* 3FC300 803FB700 002DF95B */ .word 0x002DF95B /* invalid instruction */
+    /* 3FC304 803FB704 0933003C */ .word 0x0933003C
+    /* 3FC308 803FB708 F62104B3 */ .word 0xF62104B3
+    /* 3FC30C 803FB70C 003CF608 */ .word 0x003CF608 /* invalid instruction */
+    /* 3FC310 803FB710 FBB5003C */ .word 0xFBB5003C
+    /* 3FC314 803FB714 F5D6F735 */ .word 0xF5D6F735
+    /* 3FC318 803FB718 003CF5BE */ .word 0x003CF5BE /* invalid instruction */
+    /* 3FC31C 803FB71C 00000800 */ .word 0x00000800
+    /* 3FC320 803FB720 10000800 */ .word 0x10000800
+    /* 3FC324 803FB724 10000000 */ .word 0x10000000
+    /* 3FC328 803FB728 00000000 */ .word 0x00000000
+    /* 3FC32C 803FB72C 0E000900 */ .word 0x0E000900
+    /* 3FC330 803FB730 00000900 */ .word 0x00000900
+    /* 3FC334 803FB734 0E000000 */ .word 0x0E000000
+    /* 3FC338 803FB738 20000800 */ .word 0x20000800
+    /* 3FC33C 803FB73C 20000000 */ .word 0x20000000
+    /* 3FC340 803FB740 00002180 */ .word 0x00002180
+    /* 3FC344 803FB744 08000001 */ .word 0x08000001
+    /* 3FC348 803FB748 02000102 */ .word 0x02000102 /* invalid instruction */
+    /* 3FC34C 803FB74C 02030002 */ .word 0x02030002 /* invalid instruction */
+    /* 3FC350 803FB750 03000405 */ .word 0x03000405 /* invalid instruction */
+    /* 3FC354 803FB754 06000102 */ .word 0x06000102
+    /* 3FC358 803FB758 06070402 */ .word 0x06070402 /* invalid instruction */
+    /* 3FC35C 803FB75C 03000809 */ .word 0x03000809
+    /* 3FC360 803FB760 0A010003 */ .word 0x0A010003
+    /* 3FC364 803FB764 0A0B0803 */ .word 0x0A0B0803
+enddlabel func_803FB6D8

@@ -1,0 +1,10 @@
+nonmatching func_803D7810
+
+dlabel func_803D7810
+    /* 3D8410 803D7810 FFA9E208 */ .word 0xFFA9E208
+    /* 3D8414 803D7814 0C000476 */ .word 0x0C000476
+    /* 3D8418 803D7818 18000476 */ .word 0x18000476
+    /* 3D841C 803D781C 18000119 */ .word 0x18000119
+    /* 3D8420 803D7820 00000476 */ .word 0x00000476
+    /* 3D8424 803D7824 00000119 */ .word 0x00000119 /* invalid instruction */
+enddlabel func_803D7810

@@ -1,0 +1,13 @@
+nonmatching func_8049C094
+
+dlabel func_8049C094
+    /* 49CC94 8049C094 00002A01 */ .word 0x00002A01 /* invalid instruction */
+    /* 49CC98 8049C098 06001210 */ .word 0x06001210
+    /* 49CC9C 8049C09C 14080706 */ .word 0x14080706
+    /* 49CCA0 8049C0A0 14151206 */ .word 0x14151206
+    /* 49CCA4 8049C0A4 05081613 */ .word 0x05081613
+    /* 49CCA8 8049C0A8 0F050607 */ .word 0x0F050607
+    /* 49CCAC 8049C0AC 0F0D1607 */ .word 0x0F0D1607
+    /* 49CCB0 8049C0B0 08050E11 */ .word 0x08050E11
+    /* 49CCB4 8049C0B4 071F200B */ .word 0x071F200B /* invalid instruction */
+enddlabel func_8049C094

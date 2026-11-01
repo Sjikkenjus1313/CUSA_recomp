@@ -1,0 +1,10 @@
+nonmatching func_80383868
+
+dlabel func_80383868
+    /* 384468 80383868 00000000 */ .word 0x00000000
+    /* 38446C 8038386C 00000000 */ .word 0x00000000
+    /* 384470 80383870 00000000 */ .word 0x00000000
+    /* 384474 80383874 00000000 */ .word 0x00000000
+    /* 384478 80383878 00FEADDE */ .word 0x00FEADDE /* invalid instruction */
+    /* 38447C 8038387C AEA291AF */ .word 0xAEA291AF
+enddlabel func_80383868

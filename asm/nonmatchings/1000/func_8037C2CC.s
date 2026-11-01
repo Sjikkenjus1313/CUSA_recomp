@@ -1,0 +1,20 @@
+nonmatching func_8037C2CC
+
+dlabel func_8037C2CC
+    /* 37CECC 8037C2CC 03010302 */ .word 0x03010302 /* invalid instruction */
+    /* 37CED0 8037C2D0 05070601 */ .word 0x05070601 /* invalid instruction */
+    /* 37CED4 8037C2D4 04030203 */ .word 0x04030203
+    /* 37CED8 8037C2D8 08000105 */ .word 0x08000105
+    /* 37CEDC 8037C2DC 03090801 */ .word 0x03090801 /* invalid instruction */
+    /* 37CEE0 8037C2E0 06050306 */ .word 0x06050306 /* invalid instruction */
+    /* 37CEE4 8037C2E4 09010406 */ .word 0x09010406
+    /* 37CEE8 8037C2E8 0B160012 */ .word 0x0B160012
+    /* 37CEEC 8037C2EC 00000000 */ .word 0x00000000
+    /* 37CEF0 8037C2F0 01F0F1F2 */ .word 0x01F0F1F2
+    /* 37CEF4 8037C2F4 0B0DFD1F */ .word 0x0B0DFD1F
+    /* 37CEF8 8037C2F8 F1F2FA01 */ .word 0xF1F2FA01
+    /* 37CEFC 8037C2FC FAF20013 */ .word 0xFAF20013
+    /* 37CF00 8037C300 F96EFF67 */ .word 0xF96EFF67
+    /* 37CF04 8037C304 01500AC2 */ .word 0x01500AC2 /* invalid instruction */
+    /* 37CF08 8037C308 096DF25A */ .word 0x096DF25A
+enddlabel func_8037C2CC
