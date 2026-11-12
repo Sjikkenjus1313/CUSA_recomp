@@ -6,6 +6,9 @@ Work-in-progress decompilation and static recompilation workspace for *Cruis'n U
 Just got an eureka moment when the rom finally started and could actually read what's on the display. 
 Hope to share some more positive news soon. Stay tuned!
 
+11 November 2026 update: Again some improvements with the menu. Though far from perfect, I now can get so far until the game starts. 
+
+
 ## Progress
 - Initial ROM split configured via `splat.yaml`
 - `src/1F7B0.c` (`func_8001EBB0`): 100% matched (`IDO 5.3`, `-O2 -mips2 -g3`)
