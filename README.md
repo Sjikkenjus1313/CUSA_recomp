@@ -8,6 +8,10 @@ Hope to share some more positive news soon. Stay tuned!
 
 11 November 2026 update: Again some improvements with the menu. Though far from perfect, I now can get so far until the game starts. 
 
+13 November 2026 update: Some breakthroughs. The game runs! and some graphical improvements. The cars looks better. 
+It crashes halfway the first level I think. Please check the video for the progress.
+I dropped the video file in Github so that you can have a peak: Recording 2026-11-13 083442.mp4
+
 
 ## Progress
 - Initial ROM split configured via `splat.yaml`
