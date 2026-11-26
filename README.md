@@ -13,6 +13,10 @@ It crashes halfway the first level I think. Please check the video for the progr
 I dropped the video file in Github so that you can have a peak: Recording 2026-11-13 083442.mp4
 
 
+## Latest development update
+
+**25 November 2026:** The experimental native PC build has progressed into racing gameplay. Audio research has identified 173 original SSEQ records and exercised the recompiled synthesizer's allocation path through 37 allocations in detached-memory tests. Original sound-manager initialization and game-controlled audio remain incomplete. See the [detailed development update](docs/development-update-2026-11-25.md) for verified results, limitations and next milestones.
+
 ## Progress
 - Initial ROM split configured via `splat.yaml`
 - `src/1F7B0.c` (`func_8001EBB0`): 100% matched (`IDO 5.3`, `-O2 -mips2 -g3`)
