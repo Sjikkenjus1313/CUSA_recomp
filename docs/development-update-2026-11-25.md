@@ -13,11 +13,12 @@ The goal is to recover the game's own sound manager rather than hard-code PC sou
 - Separate ROM-derived sound-effect and music previews already run through SDL2. These are **not yet game-controlled original sound playback**.
 - Detached-memory verification has exercised authentic N64Recomp-translated synthesizer initialization and memory management, preserving the live game's state.
 - As of the Stage 32 audit, the original synthesizer core reaches its finalizer boundary after **37 original allocations, 37 memory-clearing operations, and 23 list operations**.
+- **Stage 33 (offline test, awaiting confirmation on the maintainer's Ubuntu source tree):** the original synthesizer finalizer entry and its nested routine execute in detached memory through a 38th original allocation. The test records the original manager pointer, verifies that a repeat initialization skips deep setup, and stops before the still-empty `static_3_8012A6E0` helper.
 - The remainder of synthesizer finalization, sound-bank/sequence registration, audio scheduling, and the game-controlled SDL2 mixer bridge are **not restored yet**.
 
 ### Next milestone
 
-Verify the original synthesizer finalization and its allocator/device dependencies on isolated N64 memory; then build a guarded, reversible path to live resource registration and original validator acceptance. Audio activation remains disabled while these prerequisites are incomplete.
+Recover the next original helper `static_3_8012A6E0` and its dependency on `0x8012E670`, first in isolated N64 memory. Only after the authentic initialization and I/O requirements are verified should we build a guarded, reversible path to live resource registration and original validator acceptance. Audio activation remains disabled while these prerequisites are incomplete.
 
 **Repository scope:** These progress notes document local experimental work; they do not imply that every test harness or native runtime modification has been committed here. No copyrighted ROM or extracted game audio is included. Use a legally obtained copy of the game for local research.
 
